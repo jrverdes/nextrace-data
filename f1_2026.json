@@ -1,0 +1,308 @@
+[
+  {
+    "temporada": 2025,
+    "nombre_evento": "F1: Sprint Qatar",
+    "hora_carrera_utc": "2025-11-29T14:00:00Z",
+    "circuito_nombre": "Lusail International Circuit",
+    "circuito_ubicacion": "Lusail, Qatar",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": null
+  },
+  {
+    "temporada": 2025,
+    "nombre_evento": "F1: GP Qatar",
+    "hora_carrera_utc": "2025-11-30T16:00:00Z",
+    "circuito_nombre": "Lusail International Circuit",
+    "circuito_ubicacion": "Lusail, Qatar",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": null
+  },
+  {
+    "temporada": 2025,
+    "nombre_evento": "F1: GP Abu Dhabi",
+    "hora_carrera_utc": "2025-12-07T13:00:00Z",
+    "circuito_nombre": "Yas Marina Circuit",
+    "circuito_ubicacion": "Abu Dhabi, EAU",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": null
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Australia",
+    "hora_carrera_utc": "2026-03-08T04:00:00Z",
+    "circuito_nombre": "Albert Park Circuit",
+    "circuito_ubicacion": "Melbourne, Australia",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 1
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: Sprint China",
+    "hora_carrera_utc": "2026-03-14T03:00:00Z",
+    "circuito_nombre": "Shanghai International Circuit",
+    "circuito_ubicacion": "Shanghai, China",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 2
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP China",
+    "hora_carrera_utc": "2026-03-15T07:00:00Z",
+    "circuito_nombre": "Shanghai International Circuit",
+    "circuito_ubicacion": "Shanghai, China",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 2
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Japan",
+    "hora_carrera_utc": "2026-03-29T05:00:00Z",
+    "circuito_nombre": "Suzuka International Racing Course",
+    "circuito_ubicacion": "Suzuka, Japan",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 3
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Bahréin",
+    "hora_carrera_utc": "2026-04-12T15:00:00Z",
+    "circuito_nombre": "Bahrain International Circuit",
+    "circuito_ubicacion": "Sakhir, Bahréin",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 4
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Arabia Saudi",
+    "hora_carrera_utc": "2026-04-19T17:00:00Z",
+    "circuito_nombre": "Jeddah Corniche Circuit",
+    "circuito_ubicacion": "Jeddah, Arabia Saudita",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 5
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: Sprint Miami",
+    "hora_carrera_utc": "2026-05-02T16:00:00Z",
+    "circuito_nombre": "Miami International Autodrome",
+    "circuito_ubicacion": "Miami, Florida, USA",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 6
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Miami",
+    "hora_carrera_utc": "2026-05-03T20:00:00Z",
+    "circuito_nombre": "Miami International Autodrome",
+    "circuito_ubicacion": "Miami, Florida, USA",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 6
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: Sprint Canada",
+    "hora_carrera_utc": "2026-05-23T16:00:00Z",
+    "circuito_nombre": "Circuit Gilles Villeneuve",
+    "circuito_ubicacion": "Montreal, Canada",
+    "circuito_tipo": "Circuito Semi-permanente",
+    "numero_evento": 7
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Canada",
+    "hora_carrera_utc": "2026-05-24T20:00:00Z",
+    "circuito_nombre": "Circuit Gilles Villeneuve",
+    "circuito_ubicacion": "Montreal, Canada",
+    "circuito_tipo": "Circuito Semi-permanente",
+    "numero_evento": 7
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Mónaco",
+    "hora_carrera_utc": "2026-06-07T13:00:00Z",
+    "circuito_nombre": "Circuit de Monaco",
+    "circuito_ubicacion": "Monte Carlo, Mónaco",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 8
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Barcelona",
+    "hora_carrera_utc": "2026-06-14T13:00:00Z",
+    "circuito_nombre": "Circuit de Barcelona-Catalunya",
+    "circuito_ubicacion": "Montmeló, España",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 9
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Austria",
+    "hora_carrera_utc": "2026-06-28T13:00:00Z",
+    "circuito_nombre": "Red Bull Ring",
+    "circuito_ubicacion": "Spielberg, Austria",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 10
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: Sprint G. Britain",
+    "hora_carrera_utc": "2026-07-04T11:00:00Z",
+    "circuito_nombre": "Silverstone Circuit",
+    "circuito_ubicacion": "Silverstone, G. Britain",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 11
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP G. Britain",
+    "hora_carrera_utc": "2026-07-05T14:00:00Z",
+    "circuito_nombre": "Silverstone Circuit",
+    "circuito_ubicacion": "Silverstone, G. Britain",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 11
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Belgium",
+    "hora_carrera_utc": "2026-07-19T13:00:00Z",
+    "circuito_nombre": "Spa-Francorchamps",
+    "circuito_ubicacion": "Spa, Belgium",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 12
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Hungary",
+    "hora_carrera_utc": "2026-07-26T13:00:00Z",
+    "circuito_nombre": "Hungaroring",
+    "circuito_ubicacion": "Budapest, Hungary",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 13
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: Sprint Netherlands",
+    "hora_carrera_utc": "2026-08-22T10:00:00Z",
+    "circuito_nombre": "Circuit Zandvoort",
+    "circuito_ubicacion": "Zandvoort, Netherlands",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 14
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Netherlands",
+    "hora_carrera_utc": "2026-08-23T13:00:00Z",
+    "circuito_nombre": "Circuit Zandvoort",
+    "circuito_ubicacion": "Zandvoort, Netherlands",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 14
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Italia",
+    "hora_carrera_utc": "2026-09-06T13:00:00Z",
+    "circuito_nombre": "Autodromo Nazionale Monza",
+    "circuito_ubicacion": "Monza, Italia",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 15
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Madrid",
+    "hora_carrera_utc": "2026-09-13T13:00:00Z",
+    "circuito_nombre": "MadRing",
+    "circuito_ubicacion": "Madrid, España",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 16
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Azerbaiyan",
+    "hora_carrera_utc": "2026-09-26T11:00:00Z",
+    "circuito_nombre": "Baku City Circuit",
+    "circuito_ubicacion": "Bakú, Azerbaiyan",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 17
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: Sprint Singapore",
+    "hora_carrera_utc": "2026-10-10T09:00:00Z",
+    "circuito_nombre": "Marina Bay Street Circuit",
+    "circuito_ubicacion": "Singapore",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 18
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Singapore",
+    "hora_carrera_utc": "2026-10-11T12:00:00Z",
+    "circuito_nombre": "Marina Bay Street Circuit",
+    "circuito_ubicacion": "Singapore",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 18
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP USA",
+    "hora_carrera_utc": "2026-10-25T20:00:00Z",
+    "circuito_nombre": "Circuit of the Americas",
+    "circuito_ubicacion": "Austin, Texas, USA",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 19
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP México",
+    "hora_carrera_utc": "2026-11-01T20:00:00Z",
+    "circuito_nombre": "Autódromo Hermanos Rodríguez",
+    "circuito_ubicacion": "Ciudad de México, México",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 20
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Brasil",
+    "hora_carrera_utc": "2026-11-08T17:00:00Z",
+    "circuito_nombre": "Interlagos",
+    "circuito_ubicacion": "São Paulo, Brasil",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 21
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Las Vegas",
+    "hora_carrera_utc": "2026-11-22T04:00:00Z",
+    "circuito_nombre": "Las Vegas Strip Circuit",
+    "circuito_ubicacion": "Las Vegas, Nevada, USA",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 22
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: Sprint Qatar",
+    "hora_carrera_utc": "2026-11-28T14:30:00Z",
+    "circuito_nombre": "Lusail International Circuit",
+    "circuito_ubicacion": "Lusail, Qatar",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 23
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Qatar",
+    "hora_carrera_utc": "2026-11-29T16:00:00Z",
+    "circuito_nombre": "Lusail International Circuit",
+    "circuito_ubicacion": "Lusail, Qatar",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 23
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "F1: GP Abu Dhabi",
+    "hora_carrera_utc": "2026-12-06T13:00:00Z",
+    "circuito_nombre": "Yas Marina Circuit",
+    "circuito_ubicacion": "Abu Dhabi, EAU",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 24
+  }
+]

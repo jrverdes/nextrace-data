@@ -1,0 +1,344 @@
+[
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: The Clash at Bowman Gray",
+    "hora_carrera_utc": "2026-02-02T01:00:00Z",
+    "circuito_nombre": "Bowman Gray Stadium",
+    "circuito_ubicacion": "Winston-Salem, North Carolina",
+    "circuito_tipo": "Óvalo Corto",
+    "numero_evento": null
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Daytona 500",
+    "hora_carrera_utc": "2026-02-15T19:30:00Z",
+    "circuito_nombre": "Daytona International Speedway",
+    "circuito_ubicacion": "Daytona Beach, Florida",
+    "circuito_tipo": "Superspeedway",
+    "numero_evento": 1
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Ambetter Health 400",
+    "hora_carrera_utc": "2026-02-22T20:00:00Z",
+    "circuito_nombre": "Atlanta Motor Speedway",
+    "circuito_ubicacion": "Hampton, Georgia",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 2
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: EchoPark Automotive Grand Prix",
+    "hora_carrera_utc": "2026-03-01T20:30:00Z",
+    "circuito_nombre": "Circuit of The Americas",
+    "circuito_ubicacion": "Austin, Texas",
+    "circuito_tipo": "Circuito Rutero",
+    "numero_evento": 3
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Shriners Children's 500",
+    "hora_carrera_utc": "2026-03-08T19:30:00Z",
+    "circuito_nombre": "Phoenix Raceway",
+    "circuito_ubicacion": "Avondale, Arizona",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 4
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Pennzoil 400",
+    "hora_carrera_utc": "2026-03-15T20:00:00Z",
+    "circuito_nombre": "Las Vegas Motor Speedway",
+    "circuito_ubicacion": "Las Vegas, Nevada",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 5
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Goodyear 400",
+    "hora_carrera_utc": "2026-03-22T19:00:00Z",
+    "circuito_nombre": "Darlington Raceway",
+    "circuito_ubicacion": "Darlington, South Carolina",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 6
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Cook Out 400",
+    "hora_carrera_utc": "2026-03-29T19:30:00Z",
+    "circuito_nombre": "Martinsville Speedway",
+    "circuito_ubicacion": "Martinsville, Virginia",
+    "circuito_tipo": "Óvalo Corto",
+    "numero_evento": 7
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Food City 500",
+    "hora_carrera_utc": "2026-04-12T19:00:00Z",
+    "circuito_nombre": "Bristol Motor Speedway",
+    "circuito_ubicacion": "Bristol, Tennessee",
+    "circuito_tipo": "Óvalo Corto",
+    "numero_evento": 8
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: AdventHealth 400",
+    "hora_carrera_utc": "2026-04-19T18:00:00Z",
+    "circuito_nombre": "Kansas Speedway",
+    "circuito_ubicacion": "Kansas City, Kansas",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 9
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "GEICO 500",
+    "hora_carrera_utc": "2026-04-26T19:00:00Z",
+    "circuito_nombre": "Talladega Superspeedway",
+    "circuito_ubicacion": "Talladega, Alabama",
+    "circuito_tipo": "Superspeedway",
+    "numero_evento": 10
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Autotrader EchoPark Automotive 400",
+    "hora_carrera_utc": "2026-05-03T19:30:00Z",
+    "circuito_nombre": "Texas Motor Speedway",
+    "circuito_ubicacion": "Fort Worth, Texas",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 11
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Go Bowling at The Glen",
+    "hora_carrera_utc": "2026-05-10T19:00:00Z",
+    "circuito_nombre": "Watkins Glen International",
+    "circuito_ubicacion": "Watkins Glen, New York",
+    "circuito_tipo": "Circuito Rutero",
+    "numero_evento": 12
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: NASCAR All-Star Race",
+    "hora_carrera_utc": "2026-05-17T19:00:00Z",
+    "circuito_nombre": "Dover Motor Speedway",
+    "circuito_ubicacion": "Dover, Delaware",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": null
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Coca-Cola 600",
+    "hora_carrera_utc": "2026-05-24T22:00:00Z",
+    "circuito_nombre": "Charlotte Motor Speedway",
+    "circuito_ubicacion": "Concord, North Carolina",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 13
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Ally 400",
+    "hora_carrera_utc": "2026-05-31T23:00:00Z",
+    "circuito_nombre": "Nashville Superspeedway",
+    "circuito_ubicacion": "Nashville, Tennessee",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 14
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: FireKeepers Casino 400",
+    "hora_carrera_utc": "2026-06-07T19:00:00Z",
+    "circuito_nombre": "Michigan International Speedway",
+    "circuito_ubicacion": "Brooklyn, Michigan",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 15
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Pocono 400",
+    "hora_carrera_utc": "2026-06-14T19:00:00Z",
+    "circuito_nombre": "Pocono Raceway",
+    "circuito_ubicacion": "Long Pond, Pennsylvania",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 16
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: NASCAR Cup Series at San Diego",
+    "hora_carrera_utc": "2026-06-21T20:00:00Z",
+    "circuito_nombre": "San Diego Venue",
+    "circuito_ubicacion": "San Diego, California",
+    "circuito_tipo": "Óvalo Corto",
+    "numero_evento": 17
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Toyota / Save Mart 350",
+    "hora_carrera_utc": "2026-06-28T19:30:00Z",
+    "circuito_nombre": "Sonoma Raceway",
+    "circuito_ubicacion": "Sonoma, California",
+    "circuito_tipo": "Circuito Rutero",
+    "numero_evento": 18
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: NASCAR Cup Series at Chicagoland",
+    "hora_carrera_utc": "2026-07-05T22:00:00Z",
+    "circuito_nombre": "Chicagoland Speedway",
+    "circuito_ubicacion": "Joliet, Illinois",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 19
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Quaker State 400",
+    "hora_carrera_utc": "2026-07-12T23:00:00Z",
+    "circuito_nombre": "Atlanta Motor Speedway",
+    "circuito_ubicacion": "Hampton, Georgia",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 20
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: NASCAR Cup Series at North Wilkesboro",
+    "hora_carrera_utc": "2026-07-19T23:00:00Z",
+    "circuito_nombre": "North Wilkesboro Speedway",
+    "circuito_ubicacion": "North Wilkesboro, North Carolina",
+    "circuito_tipo": "Óvalo Corto",
+    "numero_evento": 21
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Brickyard 400",
+    "hora_carrera_utc": "2026-07-26T18:00:00Z",
+    "circuito_nombre": "Indianapolis Motor Speedway",
+    "circuito_ubicacion": "Speedway, Indiana",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 22
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Iowa Corn 350",
+    "hora_carrera_utc": "2026-08-09T19:30:00Z",
+    "circuito_nombre": "Iowa Speedway",
+    "circuito_ubicacion": "Newton, Iowa",
+    "circuito_tipo": "Óvalo Corto",
+    "numero_evento": 23
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Richmond 400",
+    "hora_carrera_utc": "2026-08-15T23:00:00Z",
+    "circuito_nombre": "Richmond Raceway",
+    "circuito_ubicacion": "Richmond, Virginia",
+    "circuito_tipo": "Óvalo Corto",
+    "numero_evento": 24
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: USA Today 301",
+    "hora_carrera_utc": "2026-08-23T19:00:00Z",
+    "circuito_nombre": "New Hampshire Motor Speedway",
+    "circuito_ubicacion": "Loudon, New Hampshire",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 25
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: Coke Zero Sugar 400",
+    "hora_carrera_utc": "2026-08-29T23:30:00Z",
+    "circuito_nombre": "Daytona International Speedway",
+    "circuito_ubicacion": "Daytona Beach, Florida",
+    "circuito_tipo": "Superspeedway",
+    "numero_evento": 26
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: POFF Cook Out Southern 500",
+    "hora_carrera_utc": "2026-09-06T21:00:00Z",
+    "circuito_nombre": "Darlington Raceway",
+    "circuito_ubicacion": "Darlington, South Carolina",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 27
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: POFF Enjoy Illinois 300",
+    "hora_carrera_utc": "2026-09-13T19:00:00Z",
+    "circuito_nombre": "World Wide Technology Raceway",
+    "circuito_ubicacion": "Madison, Illinois",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 28
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: POFF Bass Pro Shops Night Race",
+    "hora_carrera_utc": "2026-09-19T23:30:00Z",
+    "circuito_nombre": "Bristol Motor Speedway",
+    "circuito_ubicacion": "Bristol, Tennessee",
+    "circuito_tipo": "Óvalo Corto",
+    "numero_evento": 29
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: POFF Hollywood Casino 400",
+    "hora_carrera_utc": "2026-09-27T19:00:00Z",
+    "circuito_nombre": "Kansas Speedway",
+    "circuito_ubicacion": "Kansas City, Kansas",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 30
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: POFF South Point 400",
+    "hora_carrera_utc": "2026-10-04T21:30:00Z",
+    "circuito_nombre": "Las Vegas Motor Speedway",
+    "circuito_ubicacion": "Las Vegas, Nevada",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 31
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: POFF Bank of America ROVAL 400",
+    "hora_carrera_utc": "2026-10-11T19:00:00Z",
+    "circuito_nombre": "Charlotte Motor Speedway Road Course",
+    "circuito_ubicacion": "Concord, North Carolina",
+    "circuito_tipo": "Circuito Rutero",
+    "numero_evento": 32
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "*POFF NASCAR Cup Series at Phoenix",
+    "hora_carrera_utc": "2026-10-18T19:00:00Z",
+    "circuito_nombre": "Phoenix Raceway",
+    "circuito_ubicacion": "Avondale, Arizona",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 33
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: POFF YellaWood 500",
+    "hora_carrera_utc": "2026-10-25T18:00:00Z",
+    "circuito_nombre": "Talladega Superspeedway",
+    "circuito_ubicacion": "Talladega, Alabama",
+    "circuito_tipo": "Superspeedway",
+    "numero_evento": 34
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: POFF Xfinity 500",
+    "hora_carrera_utc": "2026-11-01T19:00:00Z",
+    "circuito_nombre": "Martinsville Speedway",
+    "circuito_ubicacion": "Martinsville, Virginia",
+    "circuito_tipo": "Óvalo Corto",
+    "numero_evento": 35
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "NCS: POFF Homestead-Miami",
+    "hora_carrera_utc": "2026-11-08T20:00:00Z",
+    "circuito_nombre": "Homestead-Miami Speedway",
+    "circuito_ubicacion": "Homestead, Florida",
+    "circuito_tipo": "Óvalo Intermedio",
+    "numero_evento": 36
+  }
+]
