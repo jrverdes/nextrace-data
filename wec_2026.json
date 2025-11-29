@@ -1,0 +1,74 @@
+[
+  {
+    "temporada": 2026,
+    "nombre_evento": "WEC: Qatar 1812 Km",
+    "hora_carrera_utc": "2026-03-28T08:00:00Z",
+    "circuito_nombre": "Lusail International Circuit",
+    "circuito_ubicacion": "Lusail, Qatar",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 1
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "WEC: 6 Hours of Imola",
+    "hora_carrera_utc": "2026-04-19T11:00:00Z",
+    "circuito_nombre": "Autodromo Enzo e Dino Ferrari",
+    "circuito_ubicacion": "Imola, Italia",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 2
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "WEC: 6 Hours of Spa-Francorchamps",
+    "hora_carrera_utc": "2026-05-09T11:00:00Z",
+    "circuito_nombre": "Circuit de Spa-Francorchamps",
+    "circuito_ubicacion": "Stavelot, Belgium",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 3
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "WEC: 24 Hours of Le Mans",
+    "hora_carrera_utc": "2026-06-13T14:00:00Z",
+    "circuito_nombre": "Circuit de la Sarthe",
+    "circuito_ubicacion": "Le Mans, France",
+    "circuito_tipo": "Circuito Semi-permanente",
+    "numero_evento": 4
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "WEC: 6 Hours of São Paulo",
+    "hora_carrera_utc": "2026-07-12T14:30:00Z",
+    "circuito_nombre": "Interlagos",
+    "circuito_ubicacion": "São Paulo, Brasil",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 5
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "WEC: Lone Star Le Mans",
+    "hora_carrera_utc": "2026-09-06T18:00:00Z",
+    "circuito_nombre": "Circuit of The Americas",
+    "circuito_ubicacion": "Austin, USA",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 6
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "WEC: 6 Hours of Fuji",
+    "hora_carrera_utc": "2026-09-27T02:00:00Z",
+    "circuito_nombre": "Fuji Speedway",
+    "circuito_ubicacion": "Oyama, Japan",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 7
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "WEC: 8 Hours of Bahrain",
+    "hora_carrera_utc": "2026-11-07T11:00:00Z",
+    "circuito_nombre": "Bahrain International Circuit",
+    "circuito_ubicacion": "Sakhir, Bahrain",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 8
+  }
+]
