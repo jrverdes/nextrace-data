@@ -91,7 +91,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "GEICO 500",
+    "nombre_evento": "NCS: GEICO 500",
     "hora_carrera_utc": "2026-04-26T19:00:00Z",
     "circuito_nombre": "Talladega Superspeedway",
     "circuito_ubicacion": "Talladega, Alabama",
@@ -163,7 +163,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: NASCAR Cup Series at San Diego",
+    "nombre_evento": "NCS: San Diego",
     "hora_carrera_utc": "2026-06-21T20:00:00Z",
     "circuito_nombre": "San Diego Venue",
     "circuito_ubicacion": "San Diego, California",
@@ -181,7 +181,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: NASCAR Cup Series at Chicagoland",
+    "nombre_evento": "NCS: Chicagoland",
     "hora_carrera_utc": "2026-07-05T22:00:00Z",
     "circuito_nombre": "Chicagoland Speedway",
     "circuito_ubicacion": "Joliet, Illinois",
@@ -199,7 +199,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: NASCAR Cup Series at North Wilkesboro",
+    "nombre_evento": "NCS: North Wilkesboro",
     "hora_carrera_utc": "2026-07-19T23:00:00Z",
     "circuito_nombre": "North Wilkesboro Speedway",
     "circuito_ubicacion": "North Wilkesboro, North Carolina",
@@ -307,7 +307,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "*POFF NASCAR Cup Series at Phoenix",
+    "nombre_evento": "NCS: POFF Phoenix",
     "hora_carrera_utc": "2026-10-18T19:00:00Z",
     "circuito_nombre": "Phoenix Raceway",
     "circuito_ubicacion": "Avondale, Arizona",
