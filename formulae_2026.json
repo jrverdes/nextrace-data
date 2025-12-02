@@ -1,0 +1,155 @@
+[
+  {
+    "temporada": 2025,
+    "nombre_evento": "FE: São Paulo E-Prix",
+    "hora_carrera_utc": "2025-12-06T17:00:00Z",
+    "circuito_nombre": "Sambadrome Anhembi",
+    "circuito_ubicacion": "São Paulo, Brazil",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 1
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Mexico City E-Prix",
+    "hora_carrera_utc": "2026-01-10T20:00:00Z",
+    "circuito_nombre": "Autódromo Hermanos Rodríguez",
+    "circuito_ubicacion": "Mexico City, Mexico",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 2
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Miami E-Prix",
+    "hora_carrera_utc": "2026-01-31T19:00:00Z",
+    "circuito_nombre": "Homestead-Miami Speedway",
+    "circuito_ubicacion": "Miami, USA",
+    "circuito_tipo": "Circuito Mixto",
+    "numero_evento": 3
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Jeddah E-Prix 1",
+    "hora_carrera_utc": "2026-02-13T17:00:00Z",
+    "circuito_nombre": "Jeddah Corniche Circuit",
+    "circuito_ubicacion": "Jeddah, Saudi Arabia",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 4
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Jeddah E-Prix 2",
+    "hora_carrera_utc": "2026-02-14T17:00:00Z",
+    "circuito_nombre": "Jeddah Corniche Circuit",
+    "circuito_ubicacion": "Jeddah, Saudi Arabia",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 5
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Madrid E-Prix",
+    "hora_carrera_utc": "2026-03-21T14:00:00Z",
+    "circuito_nombre": "Circuito del Jarama",
+    "circuito_ubicacion": "Madrid, Spain",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 6
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Berlin E-Prix 1",
+    "hora_carrera_utc": "2026-05-02T13:00:00Z",
+    "circuito_nombre": "Tempelhof Airport Street Circuit",
+    "circuito_ubicacion": "Berlin, Germany",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 7
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Berlin E-Prix 2",
+    "hora_carrera_utc": "2026-05-03T13:00:00Z",
+    "circuito_nombre": "Tempelhof Airport Street Circuit",
+    "circuito_ubicacion": "Berlin, Germany",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 8
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Monaco E-Prix 1",
+    "hora_carrera_utc": "2026-05-16T13:00:00Z",
+    "circuito_nombre": "Circuit de Monaco",
+    "circuito_ubicacion": "Monte Carlo, Monaco",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 9
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Monaco E-Prix 2",
+    "hora_carrera_utc": "2026-05-17T13:00:00Z",
+    "circuito_nombre": "Circuit de Monaco",
+    "circuito_ubicacion": "Monte Carlo, Monaco",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 10
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Sanya E-Prix",
+    "hora_carrera_utc": "2026-06-20T07:00:00Z",
+    "circuito_nombre": "Haitang Bay Circuit",
+    "circuito_ubicacion": "Sanya, China",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 11
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Shanghai E-Prix 1",
+    "hora_carrera_utc": "2026-07-04T07:00:00Z",
+    "circuito_nombre": "Shanghai International Circuit",
+    "circuito_ubicacion": "Shanghai, China",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 12
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Shanghai E-Prix 2",
+    "hora_carrera_utc": "2026-07-05T07:00:00Z",
+    "circuito_nombre": "Shanghai International Circuit",
+    "circuito_ubicacion": "Shanghai, China",
+    "circuito_tipo": "Circuito Permanente",
+    "numero_evento": 13
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Tokyo E-Prix 1",
+    "hora_carrera_utc": "2026-07-25T06:00:00Z",
+    "circuito_nombre": "Tokyo Street Circuit",
+    "circuito_ubicacion": "Tokyo, Japan",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 14
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: Tokyo E-Prix 2",
+    "hora_carrera_utc": "2026-07-26T06:00:00Z",
+    "circuito_nombre": "Tokyo Street Circuit",
+    "circuito_ubicacion": "Tokyo, Japan",
+    "circuito_tipo": "Circuito Urbano",
+    "numero_evento": 15
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: London E-Prix 1",
+    "hora_carrera_utc": "2026-08-15T16:00:00Z",
+    "circuito_nombre": "ExCeL London",
+    "circuito_ubicacion": "London, UK",
+    "circuito_tipo": "Circuito Urbano (Indoor/Outdoor)",
+    "numero_evento": 16
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "FE: London E-Prix 2",
+    "hora_carrera_utc": "2026-08-16T16:00:00Z",
+    "circuito_nombre": "ExCeL London",
+    "circuito_ubicacion": "London, UK",
+    "circuito_tipo": "Circuito Urbano (Indoor/Outdoor)",
+    "numero_evento": 17
+  }
+]
