@@ -1,32 +1,5 @@
 [
   {
-    "temporada": 2025,
-    "nombre_evento": "F1: Sprint Qatar",
-    "hora_carrera_utc": "2025-11-29T14:00:00Z",
-    "circuito_nombre": "Lusail International Circuit",
-    "circuito_ubicacion": "Lusail, Qatar",
-    "circuito_tipo": "Circuito Permanente",
-    "numero_evento": null
-  },
-  {
-    "temporada": 2025,
-    "nombre_evento": "F1: GP Qatar",
-    "hora_carrera_utc": "2025-11-30T16:00:00Z",
-    "circuito_nombre": "Lusail International Circuit",
-    "circuito_ubicacion": "Lusail, Qatar",
-    "circuito_tipo": "Circuito Permanente",
-    "numero_evento": null
-  },
-  {
-    "temporada": 2025,
-    "nombre_evento": "F1: GP Abu Dhabi",
-    "hora_carrera_utc": "2025-12-07T13:00:00Z",
-    "circuito_nombre": "Yas Marina Circuit",
-    "circuito_ubicacion": "Abu Dhabi, EAU",
-    "circuito_tipo": "Circuito Permanente",
-    "numero_evento": null
-  },
-  {
     "temporada": 2026,
     "nombre_evento": "F1: GP Australia",
     "hora_carrera_utc": "2026-03-08T04:00:00Z",
