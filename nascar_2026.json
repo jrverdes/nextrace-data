@@ -19,7 +19,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: Ambetter Health 400",
+    "nombre_evento": "NCS: Autotrader 400",
     "hora_carrera_utc": "2026-02-22T20:00:00Z",
     "circuito_nombre": "Atlanta Motor Speedway",
     "circuito_ubicacion": "Hampton, Georgia",
@@ -28,7 +28,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: EchoPark Automotive Grand Prix",
+    "nombre_evento": "NCS: DuraMax Grand Prix Powered by RelaDyne",
     "hora_carrera_utc": "2026-03-01T20:30:00Z",
     "circuito_nombre": "Circuit of The Americas",
     "circuito_ubicacion": "Austin, Texas",
@@ -37,7 +37,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: Shriners Children's 500",
+    "nombre_evento": "NCS: Straight Talk Wireless 500",
     "hora_carrera_utc": "2026-03-08T19:30:00Z",
     "circuito_nombre": "Phoenix Raceway",
     "circuito_ubicacion": "Avondale, Arizona",
@@ -46,7 +46,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: Pennzoil 400",
+    "nombre_evento": "NCS: Pennzoil 400 presented by Jiffy Lube",
     "hora_carrera_utc": "2026-03-15T20:00:00Z",
     "circuito_nombre": "Las Vegas Motor Speedway",
     "circuito_ubicacion": "Las Vegas, Nevada",
@@ -91,7 +91,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: GEICO 500",
+    "nombre_evento": "NCS: Jack Link's 500",
     "hora_carrera_utc": "2026-04-26T19:00:00Z",
     "circuito_nombre": "Talladega Superspeedway",
     "circuito_ubicacion": "Talladega, Alabama",
@@ -100,7 +100,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: Autotrader EchoPark Automotive 400",
+    "nombre_evento": "NCS: Würth 400 presented by LIQUI MOLY",
     "hora_carrera_utc": "2026-05-03T19:30:00Z",
     "circuito_nombre": "Texas Motor Speedway",
     "circuito_ubicacion": "Fort Worth, Texas",
@@ -136,7 +136,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: Ally 400",
+    "nombre_evento": "NCS: Cracker Barrel 400",
     "hora_carrera_utc": "2026-05-31T23:00:00Z",
     "circuito_nombre": "Nashville Superspeedway",
     "circuito_ubicacion": "Nashville, Tennessee",
@@ -154,7 +154,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: Pocono 400",
+    "nombre_evento": "NCS: Great American Getaway 400",
     "hora_carrera_utc": "2026-06-14T19:00:00Z",
     "circuito_nombre": "Pocono Raceway",
     "circuito_ubicacion": "Long Pond, Pennsylvania",
@@ -163,11 +163,11 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: San Diego",
+    "nombre_evento": "NCS: Anduril 250",
     "hora_carrera_utc": "2026-06-21T20:00:00Z",
-    "circuito_nombre": "San Diego Venue",
+    "circuito_nombre": "Naval Base Coronado",
     "circuito_ubicacion": "San Diego, California",
-    "circuito_tipo": "Óvalo Corto",
+    "circuito_tipo": "Circuito Urbano",
     "numero_evento": 17
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: Chicagoland",
+    "nombre_evento": "NCS: NASCAR Cup Series Race at Chicagoland",
     "hora_carrera_utc": "2026-07-05T22:00:00Z",
     "circuito_nombre": "Chicagoland Speedway",
     "circuito_ubicacion": "Joliet, Illinois",
@@ -190,7 +190,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: Quaker State 400",
+    "nombre_evento": "NCS: Quaker State 400 Available at Walmart",
     "hora_carrera_utc": "2026-07-12T23:00:00Z",
     "circuito_nombre": "Atlanta Motor Speedway",
     "circuito_ubicacion": "Hampton, Georgia",
@@ -199,7 +199,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: North Wilkesboro",
+    "nombre_evento": "NCS: Window World 450",
     "hora_carrera_utc": "2026-07-19T23:00:00Z",
     "circuito_nombre": "North Wilkesboro Speedway",
     "circuito_ubicacion": "North Wilkesboro, North Carolina",
@@ -217,7 +217,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: Iowa Corn 350",
+    "nombre_evento": "NCS: Iowa Corn 350 Powered by Ethanol",
     "hora_carrera_utc": "2026-08-09T19:30:00Z",
     "circuito_nombre": "Iowa Speedway",
     "circuito_ubicacion": "Newton, Iowa",
@@ -226,7 +226,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: Richmond 400",
+    "nombre_evento": "NCS: Cook Out 400",
     "hora_carrera_utc": "2026-08-15T23:00:00Z",
     "circuito_nombre": "Richmond Raceway",
     "circuito_ubicacion": "Richmond, Virginia",
@@ -235,7 +235,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: USA Today 301",
+    "nombre_evento": "NCS: NASCAR Cup Series Race at New Hampshire",
     "hora_carrera_utc": "2026-08-23T19:00:00Z",
     "circuito_nombre": "New Hampshire Motor Speedway",
     "circuito_ubicacion": "Loudon, New Hampshire",
@@ -253,7 +253,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: POFF Cook Out Southern 500",
+    "nombre_evento": "NCS: CHASE Cook Out Southern 500",
     "hora_carrera_utc": "2026-09-06T21:00:00Z",
     "circuito_nombre": "Darlington Raceway",
     "circuito_ubicacion": "Darlington, South Carolina",
@@ -262,7 +262,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: POFF Enjoy Illinois 300",
+    "nombre_evento": "NCS: CHASE Enjoy Illinois 300",
     "hora_carrera_utc": "2026-09-13T19:00:00Z",
     "circuito_nombre": "World Wide Technology Raceway",
     "circuito_ubicacion": "Madison, Illinois",
@@ -271,7 +271,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: POFF Bass Pro Shops Night Race",
+    "nombre_evento": "NCS: CHASE Bass Pro Shops Night Race",
     "hora_carrera_utc": "2026-09-19T23:30:00Z",
     "circuito_nombre": "Bristol Motor Speedway",
     "circuito_ubicacion": "Bristol, Tennessee",
@@ -280,7 +280,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: POFF Hollywood Casino 400",
+    "nombre_evento": "NCS: CHASE Hollywood Casino 400",
     "hora_carrera_utc": "2026-09-27T19:00:00Z",
     "circuito_nombre": "Kansas Speedway",
     "circuito_ubicacion": "Kansas City, Kansas",
@@ -289,7 +289,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: POFF South Point 400",
+    "nombre_evento": "NCS: CHASE South Point 400",
     "hora_carrera_utc": "2026-10-04T21:30:00Z",
     "circuito_nombre": "Las Vegas Motor Speedway",
     "circuito_ubicacion": "Las Vegas, Nevada",
@@ -298,7 +298,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: POFF Bank of America ROVAL 400",
+    "nombre_evento": "NCS: CHASE Bank of America 400",
     "hora_carrera_utc": "2026-10-11T19:00:00Z",
     "circuito_nombre": "Charlotte Motor Speedway Road Course",
     "circuito_ubicacion": "Concord, North Carolina",
@@ -307,7 +307,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: POFF Phoenix",
+    "nombre_evento": "NCS: CHASE Freeway Insurance 500",
     "hora_carrera_utc": "2026-10-18T19:00:00Z",
     "circuito_nombre": "Phoenix Raceway",
     "circuito_ubicacion": "Avondale, Arizona",
@@ -316,7 +316,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: POFF YellaWood 500",
+    "nombre_evento": "NCS: CHASE YellaWood 500",
     "hora_carrera_utc": "2026-10-25T18:00:00Z",
     "circuito_nombre": "Talladega Superspeedway",
     "circuito_ubicacion": "Talladega, Alabama",
@@ -325,7 +325,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: POFF Xfinity 500",
+    "nombre_evento": "NCS: CHASE Xfinity 500",
     "hora_carrera_utc": "2026-11-01T19:00:00Z",
     "circuito_nombre": "Martinsville Speedway",
     "circuito_ubicacion": "Martinsville, Virginia",
@@ -334,7 +334,7 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "NCS: POFF Homestead-Miami",
+    "nombre_evento": "NCS: CHASE NASCAR Cup Series Championship Race",
     "hora_carrera_utc": "2026-11-08T20:00:00Z",
     "circuito_nombre": "Homestead-Miami Speedway",
     "circuito_ubicacion": "Homestead, Florida",
