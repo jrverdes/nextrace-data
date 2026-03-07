@@ -11,7 +11,7 @@
   {
     "temporada": 2026,
     "nombre_evento": "INDY: Phoenix Raceway",
-    "hora_carrera_utc": "2026-03-07T20:30:00Z",
+    "hora_carrera_utc": "2026-03-07T20:00:00Z",
     "circuito_nombre": "Phoenix Raceway",
     "circuito_ubicacion": "Avondale, Arizona",
     "circuito_tipo": "Óvalo",
