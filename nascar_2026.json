@@ -5,7 +5,7 @@
     "hora_carrera_utc": "2026-02-04T23:00:00Z",
     "circuito_nombre": "Bowman Gray Stadium",
     "circuito_ubicacion": "Winston-Salem, North Carolina",
-    "circuito_tipo": "Óvalo Corto",
+    "circuito_tipo": "Óvalo corto",
     "numero_evento": null
   },
   {
@@ -23,7 +23,7 @@
     "hora_carrera_utc": "2026-02-22T20:00:00Z",
     "circuito_nombre": "Atlanta Motor Speedway",
     "circuito_ubicacion": "Hampton, Georgia",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 2
   },
   {
@@ -32,7 +32,7 @@
     "hora_carrera_utc": "2026-03-01T20:30:00Z",
     "circuito_nombre": "Circuit of The Americas",
     "circuito_ubicacion": "Austin, Texas",
-    "circuito_tipo": "Circuito Rutero",
+    "circuito_tipo": "Circuito rutero",
     "numero_evento": 3
   },
   {
@@ -41,7 +41,7 @@
     "hora_carrera_utc": "2026-03-08T19:30:00Z",
     "circuito_nombre": "Phoenix Raceway",
     "circuito_ubicacion": "Avondale, Arizona",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 4
   },
   {
@@ -50,7 +50,7 @@
     "hora_carrera_utc": "2026-03-15T20:00:00Z",
     "circuito_nombre": "Las Vegas Motor Speedway",
     "circuito_ubicacion": "Las Vegas, Nevada",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 5
   },
   {
@@ -59,7 +59,7 @@
     "hora_carrera_utc": "2026-03-22T19:00:00Z",
     "circuito_nombre": "Darlington Raceway",
     "circuito_ubicacion": "Darlington, South Carolina",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 6
   },
   {
@@ -68,7 +68,7 @@
     "hora_carrera_utc": "2026-03-29T19:30:00Z",
     "circuito_nombre": "Martinsville Speedway",
     "circuito_ubicacion": "Martinsville, Virginia",
-    "circuito_tipo": "Óvalo Corto",
+    "circuito_tipo": "Óvalo corto",
     "numero_evento": 7
   },
   {
@@ -77,7 +77,7 @@
     "hora_carrera_utc": "2026-04-12T19:00:00Z",
     "circuito_nombre": "Bristol Motor Speedway",
     "circuito_ubicacion": "Bristol, Tennessee",
-    "circuito_tipo": "Óvalo Corto",
+    "circuito_tipo": "Óvalo corto",
     "numero_evento": 8
   },
   {
@@ -86,7 +86,7 @@
     "hora_carrera_utc": "2026-04-19T18:00:00Z",
     "circuito_nombre": "Kansas Speedway",
     "circuito_ubicacion": "Kansas City, Kansas",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 9
   },
   {
@@ -104,7 +104,7 @@
     "hora_carrera_utc": "2026-05-03T19:30:00Z",
     "circuito_nombre": "Texas Motor Speedway",
     "circuito_ubicacion": "Fort Worth, Texas",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 11
   },
   {
@@ -113,7 +113,7 @@
     "hora_carrera_utc": "2026-05-10T19:00:00Z",
     "circuito_nombre": "Watkins Glen International",
     "circuito_ubicacion": "Watkins Glen, New York",
-    "circuito_tipo": "Circuito Rutero",
+    "circuito_tipo": "Circuito rutero",
     "numero_evento": 12
   },
   {
@@ -122,7 +122,7 @@
     "hora_carrera_utc": "2026-05-17T19:00:00Z",
     "circuito_nombre": "Dover Motor Speedway",
     "circuito_ubicacion": "Dover, Delaware",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": null
   },
   {
@@ -131,7 +131,7 @@
     "hora_carrera_utc": "2026-05-24T22:00:00Z",
     "circuito_nombre": "Charlotte Motor Speedway",
     "circuito_ubicacion": "Concord, North Carolina",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 13
   },
   {
@@ -140,7 +140,7 @@
     "hora_carrera_utc": "2026-05-31T23:00:00Z",
     "circuito_nombre": "Nashville Superspeedway",
     "circuito_ubicacion": "Nashville, Tennessee",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 14
   },
   {
@@ -149,7 +149,7 @@
     "hora_carrera_utc": "2026-06-07T19:00:00Z",
     "circuito_nombre": "Michigan International Speedway",
     "circuito_ubicacion": "Brooklyn, Michigan",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 15
   },
   {
@@ -158,7 +158,7 @@
     "hora_carrera_utc": "2026-06-14T17:00:00Z",
     "circuito_nombre": "Pocono Raceway",
     "circuito_ubicacion": "Long Pond, Pennsylvania",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 16
   },
   {
@@ -167,7 +167,7 @@
     "hora_carrera_utc": "2026-06-21T20:00:00Z",
     "circuito_nombre": "Naval Base Coronado",
     "circuito_ubicacion": "San Diego, California",
-    "circuito_tipo": "Circuito Urbano",
+    "circuito_tipo": "Circuito urbano",
     "numero_evento": 17
   },
   {
@@ -176,7 +176,7 @@
     "hora_carrera_utc": "2026-06-28T19:30:00Z",
     "circuito_nombre": "Sonoma Raceway",
     "circuito_ubicacion": "Sonoma, California",
-    "circuito_tipo": "Circuito Rutero",
+    "circuito_tipo": "Circuito rutero",
     "numero_evento": 18
   },
   {
@@ -185,7 +185,7 @@
     "hora_carrera_utc": "2026-07-05T22:00:00Z",
     "circuito_nombre": "Chicagoland Speedway",
     "circuito_ubicacion": "Joliet, Illinois",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 19
   },
   {
@@ -194,7 +194,7 @@
     "hora_carrera_utc": "2026-07-12T23:00:00Z",
     "circuito_nombre": "Atlanta Motor Speedway",
     "circuito_ubicacion": "Hampton, Georgia",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 20
   },
   {
@@ -203,7 +203,7 @@
     "hora_carrera_utc": "2026-07-19T23:00:00Z",
     "circuito_nombre": "North Wilkesboro Speedway",
     "circuito_ubicacion": "North Wilkesboro, North Carolina",
-    "circuito_tipo": "Óvalo Corto",
+    "circuito_tipo": "Óvalo corto",
     "numero_evento": 21
   },
   {
@@ -212,7 +212,7 @@
     "hora_carrera_utc": "2026-07-26T18:00:00Z",
     "circuito_nombre": "Indianapolis Motor Speedway",
     "circuito_ubicacion": "Speedway, Indiana",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 22
   },
   {
@@ -221,7 +221,7 @@
     "hora_carrera_utc": "2026-08-09T19:30:00Z",
     "circuito_nombre": "Iowa Speedway",
     "circuito_ubicacion": "Newton, Iowa",
-    "circuito_tipo": "Óvalo Corto",
+    "circuito_tipo": "Óvalo corto",
     "numero_evento": 23
   },
   {
@@ -230,7 +230,7 @@
     "hora_carrera_utc": "2026-08-15T23:00:00Z",
     "circuito_nombre": "Richmond Raceway",
     "circuito_ubicacion": "Richmond, Virginia",
-    "circuito_tipo": "Óvalo Corto",
+    "circuito_tipo": "Óvalo corto",
     "numero_evento": 24
   },
   {
@@ -239,7 +239,7 @@
     "hora_carrera_utc": "2026-08-23T19:00:00Z",
     "circuito_nombre": "New Hampshire Motor Speedway",
     "circuito_ubicacion": "Loudon, New Hampshire",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 25
   },
   {
@@ -257,7 +257,7 @@
     "hora_carrera_utc": "2026-09-06T21:00:00Z",
     "circuito_nombre": "Darlington Raceway",
     "circuito_ubicacion": "Darlington, South Carolina",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 27
   },
   {
@@ -266,7 +266,7 @@
     "hora_carrera_utc": "2026-09-13T19:00:00Z",
     "circuito_nombre": "World Wide Technology Raceway",
     "circuito_ubicacion": "Madison, Illinois",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 28
   },
   {
@@ -275,7 +275,7 @@
     "hora_carrera_utc": "2026-09-19T23:30:00Z",
     "circuito_nombre": "Bristol Motor Speedway",
     "circuito_ubicacion": "Bristol, Tennessee",
-    "circuito_tipo": "Óvalo Corto",
+    "circuito_tipo": "Óvalo corto",
     "numero_evento": 29
   },
   {
@@ -284,7 +284,7 @@
     "hora_carrera_utc": "2026-09-27T19:00:00Z",
     "circuito_nombre": "Kansas Speedway",
     "circuito_ubicacion": "Kansas City, Kansas",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 30
   },
   {
@@ -293,7 +293,7 @@
     "hora_carrera_utc": "2026-10-04T21:30:00Z",
     "circuito_nombre": "Las Vegas Motor Speedway",
     "circuito_ubicacion": "Las Vegas, Nevada",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 31
   },
   {
@@ -302,7 +302,7 @@
     "hora_carrera_utc": "2026-10-11T19:00:00Z",
     "circuito_nombre": "Charlotte Motor Speedway Road Course",
     "circuito_ubicacion": "Concord, North Carolina",
-    "circuito_tipo": "Circuito Rutero",
+    "circuito_tipo": "Circuito rutero",
     "numero_evento": 32
   },
   {
@@ -311,7 +311,7 @@
     "hora_carrera_utc": "2026-10-18T19:00:00Z",
     "circuito_nombre": "Phoenix Raceway",
     "circuito_ubicacion": "Avondale, Arizona",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 33
   },
   {
@@ -329,7 +329,7 @@
     "hora_carrera_utc": "2026-11-01T19:00:00Z",
     "circuito_nombre": "Martinsville Speedway",
     "circuito_ubicacion": "Martinsville, Virginia",
-    "circuito_tipo": "Óvalo Corto",
+    "circuito_tipo": "Óvalo corto",
     "numero_evento": 35
   },
   {
@@ -338,7 +338,7 @@
     "hora_carrera_utc": "2026-11-08T20:00:00Z",
     "circuito_nombre": "Homestead-Miami Speedway",
     "circuito_ubicacion": "Homestead, Florida",
-    "circuito_tipo": "Óvalo Intermedio",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 36
   }
 ]

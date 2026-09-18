@@ -5,7 +5,7 @@
     "hora_carrera_utc": "2026-01-24T18:40:00Z",
     "circuito_nombre": "Daytona International Speedway",
     "circuito_ubicacion": "Daytona Beach, Florida",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 1
   },
   {
@@ -14,7 +14,7 @@
     "hora_carrera_utc": "2026-03-21T14:10:00Z",
     "circuito_nombre": "Sebring International Raceway",
     "circuito_ubicacion": "Sebring, Florida",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 2
   },
   {
@@ -23,7 +23,7 @@
     "hora_carrera_utc": "2026-04-18T21:00:00Z",
     "circuito_nombre": "Long Beach Street Circuit",
     "circuito_ubicacion": "Long Beach, California",
-    "circuito_tipo": "Circuito Urbano",
+    "circuito_tipo": "Circuito urbano",
     "numero_evento": 3
   },
   {
@@ -32,7 +32,7 @@
     "hora_carrera_utc": "2026-05-03T19:10:00Z",
     "circuito_nombre": "WeatherTech Raceway Laguna Seca",
     "circuito_ubicacion": "Monterey, California",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 4
   },
   {
@@ -41,7 +41,7 @@
     "hora_carrera_utc": "2026-05-30T19:10:00Z",
     "circuito_nombre": "Streets of Detroit",
     "circuito_ubicacion": "Detroit, Michigan",
-    "circuito_tipo": "Circuito Urbano",
+    "circuito_tipo": "Circuito urbano",
     "numero_evento": 5
   },
   {
@@ -50,7 +50,7 @@
     "hora_carrera_utc": "2026-06-28T14:40:00Z",
     "circuito_nombre": "Watkins Glen International",
     "circuito_ubicacion": "Watkins Glen, New York",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 6
   },
   {
@@ -59,7 +59,7 @@
     "hora_carrera_utc": "2026-07-12T16:00:00Z",
     "circuito_nombre": "Canadian Tire Motorsport Park",
     "circuito_ubicacion": "Bowmanville, Ontario",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 7
   },
   {
@@ -68,7 +68,7 @@
     "hora_carrera_utc": "2026-08-02T19:10:00Z",
     "circuito_nombre": "Road America",
     "circuito_ubicacion": "Elkhart Lake, Wisconsin",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 8
   },
   {
@@ -77,7 +77,7 @@
     "hora_carrera_utc": "2026-08-23T18:10:00Z",
     "circuito_nombre": "VIRginia International Raceway",
     "circuito_ubicacion": "Alton, Virginia",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 9
   },
   {
@@ -86,7 +86,7 @@
     "hora_carrera_utc": "2026-09-20T17:10:00Z",
     "circuito_nombre": "Indianapolis Motor Speedway",
     "circuito_ubicacion": "Speedway, Indiana",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 10
   },
   {
@@ -95,7 +95,7 @@
     "hora_carrera_utc": "2026-10-03T16:10:00Z",
     "circuito_nombre": "Michelin Raceway Road Atlanta",
     "circuito_ubicacion": "Braselton, Georgia",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 11
   }
 ]

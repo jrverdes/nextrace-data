@@ -1,20 +1,20 @@
 [
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: Sprint Thailand",
+    "nombre_evento": "MGP: Sprint Tailandia",
     "hora_carrera_utc": "2026-02-28T07:00:00Z",
     "circuito_nombre": "Chang International Circuit",
-    "circuito_ubicacion": "Buriram, Thailand",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Buriram, Tailandia",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 1
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: GP Thailand",
+    "nombre_evento": "MGP: GP Tailandia",
     "hora_carrera_utc": "2026-03-01T07:00:00Z",
     "circuito_nombre": "Chang International Circuit",
-    "circuito_ubicacion": "Buriram, Thailand",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Buriram, Tailandia",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 1
   },
   {
@@ -23,7 +23,7 @@
     "hora_carrera_utc": "2026-03-21T17:00:00Z",
     "circuito_nombre": "Autódromo Internacional de Goiânia",
     "circuito_ubicacion": "Goiânia, Brasil",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 2
   },
   {
@@ -32,7 +32,7 @@
     "hora_carrera_utc": "2026-03-22T17:00:00Z",
     "circuito_nombre": "Autódromo Internacional de Goiânia",
     "circuito_ubicacion": "Goiânia, Brasil",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 2
   },
   {
@@ -40,8 +40,8 @@
     "nombre_evento": "MGP: Sprint Américas",
     "hora_carrera_utc": "2026-03-28T20:00:00Z",
     "circuito_nombre": "Circuit of Las Américas",
-    "circuito_ubicacion": "Austin, USA",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Austin, Texas",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 3
   },
   {
@@ -49,8 +49,8 @@
     "nombre_evento": "MGP: GP Américas",
     "hora_carrera_utc": "2026-03-29T19:00:00Z",
     "circuito_nombre": "Circuit of Las Américas",
-    "circuito_ubicacion": "Austin, USA",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Austin, Texas",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 3
   },
   {
@@ -59,7 +59,7 @@
     "hora_carrera_utc": "2026-04-11T16:00:00Z",
     "circuito_nombre": "Lusail International Circuit",
     "circuito_ubicacion": "Lusail, Qatar",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 4
   },
   {
@@ -68,7 +68,7 @@
     "hora_carrera_utc": "2026-04-12T17:00:00Z",
     "circuito_nombre": "Lusail International Circuit",
     "circuito_ubicacion": "Lusail, Qatar",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 4
   },
   {
@@ -77,7 +77,7 @@
     "hora_carrera_utc": "2026-04-25T13:00:00Z",
     "circuito_nombre": "Circuito de Jerez - Ángel Nieto",
     "circuito_ubicacion": "Jerez de la Frontera, España",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 5
   },
   {
@@ -86,25 +86,25 @@
     "hora_carrera_utc": "2026-04-26T12:00:00Z",
     "circuito_nombre": "Circuito de Jerez - Ángel Nieto",
     "circuito_ubicacion": "Jerez de la Frontera, España",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 5
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: Sprint France",
+    "nombre_evento": "MGP: Sprint Francia",
     "hora_carrera_utc": "2026-05-09T13:00:00Z",
     "circuito_nombre": "Le Mans",
-    "circuito_ubicacion": "Le Mans, France",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Le Mans, Francia",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 6
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: GP France",
+    "nombre_evento": "MGP: GP Francia",
     "hora_carrera_utc": "2026-05-10T12:00:00Z",
     "circuito_nombre": "Le Mans",
-    "circuito_ubicacion": "Le Mans, France",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Le Mans, Francia",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 6
   },
   {
@@ -113,7 +113,7 @@
     "hora_carrera_utc": "2026-05-16T13:00:00Z",
     "circuito_nombre": "Circuit de Barcelona-Catalunya",
     "circuito_ubicacion": "Montmeló, España",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 7
   },
   {
@@ -122,7 +122,7 @@
     "hora_carrera_utc": "2026-05-17T12:00:00Z",
     "circuito_nombre": "Circuit de Barcelona-Catalunya",
     "circuito_ubicacion": "Montmeló, España",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 7
   },
   {
@@ -131,7 +131,7 @@
     "hora_carrera_utc": "2026-05-30T13:00:00Z",
     "circuito_nombre": "Autodromo Internazionale del Mugello",
     "circuito_ubicacion": "Mugello, Italia",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 8
   },
   {
@@ -140,97 +140,97 @@
     "hora_carrera_utc": "2026-05-31T12:00:00Z",
     "circuito_nombre": "Autodromo Internazionale del Mugello",
     "circuito_ubicacion": "Mugello, Italia",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 8
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: Sprint Hungary",
+    "nombre_evento": "MGP: Sprint Hungría",
     "hora_carrera_utc": "2026-06-06T13:00:00Z",
     "circuito_nombre": "Balaton Park Circuit",
-    "circuito_ubicacion": "Balatonfőkajár, Hungary",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Balatonfőkajár, Hungría",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 9
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: GP Hungary",
+    "nombre_evento": "MGP: GP Hungría",
     "hora_carrera_utc": "2026-06-07T12:00:00Z",
     "circuito_nombre": "Balaton Park Circuit",
-    "circuito_ubicacion": "Balatonfőkajár, Hungary",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Balatonfőkajár, Hungría",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 9
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: Sprint Czech Republic",
+    "nombre_evento": "MGP: Sprint Chequia",
     "hora_carrera_utc": "2026-06-20T13:00:00Z",
     "circuito_nombre": "Automotodrom Brno",
-    "circuito_ubicacion": "Brno, Czech Republic",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Brno, Chequia",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 10
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: GP Czech Republic",
+    "nombre_evento": "MGP: GP Chequia",
     "hora_carrera_utc": "2026-06-21T12:00:00Z",
     "circuito_nombre": "Automotodrom Brno",
-    "circuito_ubicacion": "Brno, Czech Republic",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Brno, Chequia",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 10
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: Sprint Netherlands",
+    "nombre_evento": "MGP: Sprint Países Bajos",
     "hora_carrera_utc": "2026-06-27T13:00:00Z",
     "circuito_nombre": "TT Circuit Assen",
-    "circuito_ubicacion": "Assen, Netherlands",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Assen, Países Bajos",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 11
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: GP Netherlands",
+    "nombre_evento": "MGP: GP Países Bajos",
     "hora_carrera_utc": "2026-06-28T12:00:00Z",
     "circuito_nombre": "TT Circuit Assen",
-    "circuito_ubicacion": "Assen, Netherlands",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Assen, Países Bajos",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 11
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: Sprint Germany",
+    "nombre_evento": "MGP: Sprint Alemania",
     "hora_carrera_utc": "2026-07-11T13:00:00Z",
     "circuito_nombre": "Sachsenring",
-    "circuito_ubicacion": "Hohenstein-Ernstthal, Germany",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Hohenstein-Ernstthal, Alemania",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 12
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: GP Germany",
+    "nombre_evento": "MGP: GP Alemania",
     "hora_carrera_utc": "2026-07-12T12:00:00Z",
     "circuito_nombre": "Sachsenring",
-    "circuito_ubicacion": "Hohenstein-Ernstthal, Germany",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Hohenstein-Ernstthal, Alemania",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 12
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: Sprint G. Britain",
+    "nombre_evento": "MGP: Sprint Gran Bretaña",
     "hora_carrera_utc": "2026-08-08T14:00:00Z",
     "circuito_nombre": "Silverstone Circuit",
-    "circuito_ubicacion": "Silverstone, G. Britain",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Silverstone, Reino Unido",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 13
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: GP G. Britain",
+    "nombre_evento": "MGP: GP Gran Bretaña",
     "hora_carrera_utc": "2026-08-09T13:00:00Z",
     "circuito_nombre": "Silverstone Circuit",
-    "circuito_ubicacion": "Silverstone, G. Britain",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Silverstone, Reino Unido",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 13
   },
   {
@@ -239,7 +239,7 @@
     "hora_carrera_utc": "2026-08-29T13:00:00Z",
     "circuito_nombre": "MotorLand Aragón",
     "circuito_ubicacion": "Alcañiz, España",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 14
   },
   {
@@ -248,7 +248,7 @@
     "hora_carrera_utc": "2026-08-30T12:00:00Z",
     "circuito_nombre": "MotorLand Aragón",
     "circuito_ubicacion": "Alcañiz, España",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 14
   },
   {
@@ -257,7 +257,7 @@
     "hora_carrera_utc": "2026-09-12T13:00:00Z",
     "circuito_nombre": "Misano World Circuit Marco Simoncelli",
     "circuito_ubicacion": "Misano Adriatico, Italia",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 15
   },
   {
@@ -266,7 +266,7 @@
     "hora_carrera_utc": "2026-09-13T12:00:00Z",
     "circuito_nombre": "Misano World Circuit Marco Simoncelli",
     "circuito_ubicacion": "Misano Adriatico, Italia",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 15
   },
   {
@@ -275,7 +275,7 @@
     "hora_carrera_utc": "2026-09-19T13:00:00Z",
     "circuito_nombre": "Red Bull Ring",
     "circuito_ubicacion": "Spielberg, Austria",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 16
   },
   {
@@ -284,25 +284,25 @@
     "hora_carrera_utc": "2026-09-20T12:00:00Z",
     "circuito_nombre": "Red Bull Ring",
     "circuito_ubicacion": "Spielberg, Austria",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 16
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: Sprint Japan",
+    "nombre_evento": "MGP: Sprint Japón",
     "hora_carrera_utc": "2026-10-03T06:00:00Z",
     "circuito_nombre": "Mobility Resort Motegi",
-    "circuito_ubicacion": "Motegi, Japan",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Motegi, Japón",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 17
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: GP Japan",
+    "nombre_evento": "MGP: GP Japón",
     "hora_carrera_utc": "2026-10-04T05:00:00Z",
     "circuito_nombre": "Mobility Resort Motegi",
-    "circuito_ubicacion": "Motegi, Japan",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_ubicacion": "Motegi, Japón",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 17
   },
   {
@@ -311,7 +311,7 @@
     "hora_carrera_utc": "2026-10-10T07:00:00Z",
     "circuito_nombre": "Pertamina Mandalika International Circuit",
     "circuito_ubicacion": "Mandalika, Indonesia",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 18
   },
   {
@@ -320,7 +320,7 @@
     "hora_carrera_utc": "2026-10-11T07:00:00Z",
     "circuito_nombre": "Pertamina Mandalika International Circuit",
     "circuito_ubicacion": "Mandalika, Indonesia",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 18
   },
   {
@@ -329,7 +329,7 @@
     "hora_carrera_utc": "2026-10-24T04:00:00Z",
     "circuito_nombre": "Phillip Island Grand Prix Circuit",
     "circuito_ubicacion": "Phillip Island, Australia",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 19
   },
   {
@@ -338,7 +338,7 @@
     "hora_carrera_utc": "2026-10-25T03:00:00Z",
     "circuito_nombre": "Phillip Island Grand Prix Circuit",
     "circuito_ubicacion": "Phillip Island, Australia",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 19
   },
   {
@@ -347,7 +347,7 @@
     "hora_carrera_utc": "2026-10-31T07:00:00Z",
     "circuito_nombre": "Sepang International Circuit",
     "circuito_ubicacion": "Sepang, Malasia",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 20
   },
   {
@@ -356,7 +356,7 @@
     "hora_carrera_utc": "2026-11-01T06:00:00Z",
     "circuito_nombre": "Sepang International Circuit",
     "circuito_ubicacion": "Sepang, Malasia",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 20
   },
   {
@@ -365,7 +365,7 @@
     "hora_carrera_utc": "2026-11-14T15:00:00Z",
     "circuito_nombre": "Autódromo Internacional do Algarve",
     "circuito_ubicacion": "Portimão, Portugal",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 21
   },
   {
@@ -374,7 +374,7 @@
     "hora_carrera_utc": "2026-11-15T14:00:00Z",
     "circuito_nombre": "Autódromo Internacional do Algarve",
     "circuito_ubicacion": "Portimão, Portugal",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 21
   },
   {
@@ -383,7 +383,7 @@
     "hora_carrera_utc": "2026-11-21T14:00:00Z",
     "circuito_nombre": "Circuit Ricardo Tormo",
     "circuito_ubicacion": "Cheste, Valencia, España",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 22
   },
   {
@@ -392,7 +392,7 @@
     "hora_carrera_utc": "2026-11-22T13:00:00Z",
     "circuito_nombre": "Circuit Ricardo Tormo",
     "circuito_ubicacion": "Cheste, Valencia, España",
-    "circuito_tipo": "Circuito Permanente",
+    "circuito_tipo": "Circuito permanente",
     "numero_evento": 22
   }
 ]
