@@ -6,7 +6,8 @@
     "circuito_nombre": "Bowman Gray Stadium",
     "circuito_ubicacion": "Winston-Salem, North Carolina",
     "circuito_tipo": "Óvalo corto",
-    "numero_evento": null
+    "numero_evento": null,
+    "circuito_tipo_en": "Short oval"
   },
   {
     "temporada": 2026,
@@ -24,7 +25,8 @@
     "circuito_nombre": "Atlanta Motor Speedway",
     "circuito_ubicacion": "Hampton, Georgia",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 2
+    "numero_evento": 2,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -33,7 +35,8 @@
     "circuito_nombre": "Circuit of The Americas",
     "circuito_ubicacion": "Austin, Texas",
     "circuito_tipo": "Circuito rutero",
-    "numero_evento": 3
+    "numero_evento": 3,
+    "circuito_tipo_en": "Road course"
   },
   {
     "temporada": 2026,
@@ -42,7 +45,8 @@
     "circuito_nombre": "Phoenix Raceway",
     "circuito_ubicacion": "Avondale, Arizona",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 4
+    "numero_evento": 4,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -51,7 +55,8 @@
     "circuito_nombre": "Las Vegas Motor Speedway",
     "circuito_ubicacion": "Las Vegas, Nevada",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 5
+    "numero_evento": 5,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -60,7 +65,8 @@
     "circuito_nombre": "Darlington Raceway",
     "circuito_ubicacion": "Darlington, South Carolina",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 6
+    "numero_evento": 6,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -69,7 +75,8 @@
     "circuito_nombre": "Martinsville Speedway",
     "circuito_ubicacion": "Martinsville, Virginia",
     "circuito_tipo": "Óvalo corto",
-    "numero_evento": 7
+    "numero_evento": 7,
+    "circuito_tipo_en": "Short oval"
   },
   {
     "temporada": 2026,
@@ -78,7 +85,8 @@
     "circuito_nombre": "Bristol Motor Speedway",
     "circuito_ubicacion": "Bristol, Tennessee",
     "circuito_tipo": "Óvalo corto",
-    "numero_evento": 8
+    "numero_evento": 8,
+    "circuito_tipo_en": "Short oval"
   },
   {
     "temporada": 2026,
@@ -87,7 +95,8 @@
     "circuito_nombre": "Kansas Speedway",
     "circuito_ubicacion": "Kansas City, Kansas",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 9
+    "numero_evento": 9,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -105,7 +114,8 @@
     "circuito_nombre": "Texas Motor Speedway",
     "circuito_ubicacion": "Fort Worth, Texas",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 11
+    "numero_evento": 11,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -114,7 +124,8 @@
     "circuito_nombre": "Watkins Glen International",
     "circuito_ubicacion": "Watkins Glen, New York",
     "circuito_tipo": "Circuito rutero",
-    "numero_evento": 12
+    "numero_evento": 12,
+    "circuito_tipo_en": "Road course"
   },
   {
     "temporada": 2026,
@@ -123,7 +134,8 @@
     "circuito_nombre": "Dover Motor Speedway",
     "circuito_ubicacion": "Dover, Delaware",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": null
+    "numero_evento": null,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -132,7 +144,8 @@
     "circuito_nombre": "Charlotte Motor Speedway",
     "circuito_ubicacion": "Concord, North Carolina",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 13
+    "numero_evento": 13,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -141,7 +154,8 @@
     "circuito_nombre": "Nashville Superspeedway",
     "circuito_ubicacion": "Nashville, Tennessee",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 14
+    "numero_evento": 14,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -150,7 +164,8 @@
     "circuito_nombre": "Michigan International Speedway",
     "circuito_ubicacion": "Brooklyn, Michigan",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 15
+    "numero_evento": 15,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -159,7 +174,8 @@
     "circuito_nombre": "Pocono Raceway",
     "circuito_ubicacion": "Long Pond, Pennsylvania",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 16
+    "numero_evento": 16,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -168,7 +184,8 @@
     "circuito_nombre": "Naval Base Coronado",
     "circuito_ubicacion": "San Diego, California",
     "circuito_tipo": "Circuito urbano",
-    "numero_evento": 17
+    "numero_evento": 17,
+    "circuito_tipo_en": "Street circuit"
   },
   {
     "temporada": 2026,
@@ -177,7 +194,8 @@
     "circuito_nombre": "Sonoma Raceway",
     "circuito_ubicacion": "Sonoma, California",
     "circuito_tipo": "Circuito rutero",
-    "numero_evento": 18
+    "numero_evento": 18,
+    "circuito_tipo_en": "Road course"
   },
   {
     "temporada": 2026,
@@ -186,7 +204,8 @@
     "circuito_nombre": "Chicagoland Speedway",
     "circuito_ubicacion": "Joliet, Illinois",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 19
+    "numero_evento": 19,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -195,7 +214,8 @@
     "circuito_nombre": "Atlanta Motor Speedway",
     "circuito_ubicacion": "Hampton, Georgia",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 20
+    "numero_evento": 20,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -204,7 +224,8 @@
     "circuito_nombre": "North Wilkesboro Speedway",
     "circuito_ubicacion": "North Wilkesboro, North Carolina",
     "circuito_tipo": "Óvalo corto",
-    "numero_evento": 21
+    "numero_evento": 21,
+    "circuito_tipo_en": "Short oval"
   },
   {
     "temporada": 2026,
@@ -213,7 +234,8 @@
     "circuito_nombre": "Indianapolis Motor Speedway",
     "circuito_ubicacion": "Speedway, Indiana",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 22
+    "numero_evento": 22,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -222,7 +244,8 @@
     "circuito_nombre": "Iowa Speedway",
     "circuito_ubicacion": "Newton, Iowa",
     "circuito_tipo": "Óvalo corto",
-    "numero_evento": 23
+    "numero_evento": 23,
+    "circuito_tipo_en": "Short oval"
   },
   {
     "temporada": 2026,
@@ -231,7 +254,8 @@
     "circuito_nombre": "Richmond Raceway",
     "circuito_ubicacion": "Richmond, Virginia",
     "circuito_tipo": "Óvalo corto",
-    "numero_evento": 24
+    "numero_evento": 24,
+    "circuito_tipo_en": "Short oval"
   },
   {
     "temporada": 2026,
@@ -240,7 +264,8 @@
     "circuito_nombre": "New Hampshire Motor Speedway",
     "circuito_ubicacion": "Loudon, New Hampshire",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 25
+    "numero_evento": 25,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -258,7 +283,8 @@
     "circuito_nombre": "Darlington Raceway",
     "circuito_ubicacion": "Darlington, South Carolina",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 27
+    "numero_evento": 27,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -267,7 +293,8 @@
     "circuito_nombre": "World Wide Technology Raceway",
     "circuito_ubicacion": "Madison, Illinois",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 28
+    "numero_evento": 28,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -276,7 +303,8 @@
     "circuito_nombre": "Bristol Motor Speedway",
     "circuito_ubicacion": "Bristol, Tennessee",
     "circuito_tipo": "Óvalo corto",
-    "numero_evento": 29
+    "numero_evento": 29,
+    "circuito_tipo_en": "Short oval"
   },
   {
     "temporada": 2026,
@@ -285,7 +313,8 @@
     "circuito_nombre": "Kansas Speedway",
     "circuito_ubicacion": "Kansas City, Kansas",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 30
+    "numero_evento": 30,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -294,7 +323,8 @@
     "circuito_nombre": "Las Vegas Motor Speedway",
     "circuito_ubicacion": "Las Vegas, Nevada",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 31
+    "numero_evento": 31,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -303,7 +333,8 @@
     "circuito_nombre": "Charlotte Motor Speedway Road Course",
     "circuito_ubicacion": "Concord, North Carolina",
     "circuito_tipo": "Circuito rutero",
-    "numero_evento": 32
+    "numero_evento": 32,
+    "circuito_tipo_en": "Road course"
   },
   {
     "temporada": 2026,
@@ -312,7 +343,8 @@
     "circuito_nombre": "Phoenix Raceway",
     "circuito_ubicacion": "Avondale, Arizona",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 33
+    "numero_evento": 33,
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
@@ -330,7 +362,8 @@
     "circuito_nombre": "Martinsville Speedway",
     "circuito_ubicacion": "Martinsville, Virginia",
     "circuito_tipo": "Óvalo corto",
-    "numero_evento": 35
+    "numero_evento": 35,
+    "circuito_tipo_en": "Short oval"
   },
   {
     "temporada": 2026,
@@ -339,6 +372,7 @@
     "circuito_nombre": "Homestead-Miami Speedway",
     "circuito_ubicacion": "Homestead, Florida",
     "circuito_tipo": "Óvalo intermedio",
-    "numero_evento": 36
+    "numero_evento": 36,
+    "circuito_tipo_en": "Intermediate oval"
   }
 ]
