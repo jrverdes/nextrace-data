@@ -6,7 +6,8 @@
     "circuito_nombre": "Streets of St. Petersburg",
     "circuito_ubicacion": "St. Petersburg, Florida",
     "circuito_tipo": "Circuito urbano",
-    "numero_evento": 1
+    "numero_evento": 1,
+    "circuito_tipo_en": "Street circuit"
   },
   {
     "temporada": 2026,
@@ -15,7 +16,8 @@
     "circuito_nombre": "Phoenix Raceway",
     "circuito_ubicacion": "Avondale, Arizona",
     "circuito_tipo": "Óvalo",
-    "numero_evento": 2
+    "numero_evento": 2,
+    "circuito_tipo_en": "Oval"
   },
   {
     "temporada": 2026,
@@ -24,7 +26,8 @@
     "circuito_nombre": "Streets of Arlington",
     "circuito_ubicacion": "Arlington, Virginia",
     "circuito_tipo": "Circuito urbano",
-    "numero_evento": 3
+    "numero_evento": 3,
+    "circuito_tipo_en": "Street circuit"
   },
   {
     "temporada": 2026,
@@ -33,7 +36,8 @@
     "circuito_nombre": "Barber Motorsports Park",
     "circuito_ubicacion": "Birmingham, Alabama",
     "circuito_tipo": "Circuito rutero",
-    "numero_evento": 4
+    "numero_evento": 4,
+    "circuito_tipo_en": "Road course"
   },
   {
     "temporada": 2026,
@@ -42,7 +46,8 @@
     "circuito_nombre": "Streets of Long Beach",
     "circuito_ubicacion": "Long Beach, California",
     "circuito_tipo": "Circuito urbano",
-    "numero_evento": 5
+    "numero_evento": 5,
+    "circuito_tipo_en": "Street circuit"
   },
   {
     "temporada": 2026,
@@ -51,7 +56,8 @@
     "circuito_nombre": "Indianapolis Motor Speedway (Road)",
     "circuito_ubicacion": "Speedway, Indiana",
     "circuito_tipo": "Circuito rutero",
-    "numero_evento": 6
+    "numero_evento": 6,
+    "circuito_tipo_en": "Road course"
   },
   {
     "temporada": 2026,
@@ -60,7 +66,8 @@
     "circuito_nombre": "Indianapolis Motor Speedway",
     "circuito_ubicacion": "Speedway, Indiana",
     "circuito_tipo": "Óvalo",
-    "numero_evento": 7
+    "numero_evento": 7,
+    "circuito_tipo_en": "Oval"
   },
   {
     "temporada": 2026,
@@ -69,7 +76,8 @@
     "circuito_nombre": "Streets of Detroit",
     "circuito_ubicacion": "Detroit, Michigan",
     "circuito_tipo": "Circuito urbano",
-    "numero_evento": 8
+    "numero_evento": 8,
+    "circuito_tipo_en": "Street circuit"
   },
   {
     "temporada": 2026,
@@ -78,7 +86,8 @@
     "circuito_nombre": "World Wide Technology Raceway",
     "circuito_ubicacion": "Madison, Missouri",
     "circuito_tipo": "Óvalo",
-    "numero_evento": 9
+    "numero_evento": 9,
+    "circuito_tipo_en": "Oval"
   },
   {
     "temporada": 2026,
@@ -87,7 +96,8 @@
     "circuito_nombre": "Road America",
     "circuito_ubicacion": "Elkhart Lake, Wisconsin",
     "circuito_tipo": "Circuito rutero",
-    "numero_evento": 10
+    "numero_evento": 10,
+    "circuito_tipo_en": "Road course"
   },
   {
     "temporada": 2026,
@@ -96,7 +106,8 @@
     "circuito_nombre": "Mid-Ohio Sports Car Course",
     "circuito_ubicacion": "Lexington, Ohio",
     "circuito_tipo": "Circuito rutero",
-    "numero_evento": 11
+    "numero_evento": 11,
+    "circuito_tipo_en": "Road course"
   },
   {
     "temporada": 2026,
@@ -105,7 +116,8 @@
     "circuito_nombre": "Nashville Superspeedway",
     "circuito_ubicacion": "Lebanon, Tennessee",
     "circuito_tipo": "Óvalo",
-    "numero_evento": 12
+    "numero_evento": 12,
+    "circuito_tipo_en": "Oval"
   },
   {
     "temporada": 2026,
@@ -114,7 +126,8 @@
     "circuito_nombre": "Portland International Raceway",
     "circuito_ubicacion": "Portland, Oregon",
     "circuito_tipo": "Circuito rutero",
-    "numero_evento": 13
+    "numero_evento": 13,
+    "circuito_tipo_en": "Road course"
   },
   {
     "temporada": 2026,
@@ -123,7 +136,8 @@
     "circuito_nombre": "Streets of Markham",
     "circuito_ubicacion": "Markham, Ontario",
     "circuito_tipo": "Circuito urbano",
-    "numero_evento": 14
+    "numero_evento": 14,
+    "circuito_tipo_en": "Street circuit"
   },
   {
     "temporada": 2026,
@@ -132,7 +146,8 @@
     "circuito_nombre": "Milwaukee Mile",
     "circuito_ubicacion": "West Allis, Wisconsin",
     "circuito_tipo": "Óvalo",
-    "numero_evento": 15
+    "numero_evento": 15,
+    "circuito_tipo_en": "Oval"
   },
   {
     "temporada": 2026,
@@ -141,7 +156,8 @@
     "circuito_nombre": "Milwaukee Mile",
     "circuito_ubicacion": "West Allis, Wisconsin",
     "circuito_tipo": "Óvalo",
-    "numero_evento": 16
+    "numero_evento": 16,
+    "circuito_tipo_en": "Oval"
   },
   {
     "temporada": 2026,
@@ -150,6 +166,7 @@
     "circuito_nombre": "WeatherTech Raceway Laguna Seca",
     "circuito_ubicacion": "Monterey, California",
     "circuito_tipo": "Circuito rutero",
-    "numero_evento": 17
+    "numero_evento": 17,
+    "circuito_tipo_en": "Road course"
   }
 ]
