@@ -6,7 +6,8 @@
     "circuito_nombre": "Daytona International Speedway",
     "circuito_ubicacion": "Daytona Beach, Florida",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 1
+    "numero_evento": 1,
+    "circuito_tipo_en": "Permanent circuit"
   },
   {
     "temporada": 2026,
@@ -15,7 +16,8 @@
     "circuito_nombre": "Sebring International Raceway",
     "circuito_ubicacion": "Sebring, Florida",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 2
+    "numero_evento": 2,
+    "circuito_tipo_en": "Permanent circuit"
   },
   {
     "temporada": 2026,
@@ -24,7 +26,8 @@
     "circuito_nombre": "Long Beach Street Circuit",
     "circuito_ubicacion": "Long Beach, California",
     "circuito_tipo": "Circuito urbano",
-    "numero_evento": 3
+    "numero_evento": 3,
+    "circuito_tipo_en": "Street circuit"
   },
   {
     "temporada": 2026,
@@ -33,7 +36,8 @@
     "circuito_nombre": "WeatherTech Raceway Laguna Seca",
     "circuito_ubicacion": "Monterey, California",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 4
+    "numero_evento": 4,
+    "circuito_tipo_en": "Permanent circuit"
   },
   {
     "temporada": 2026,
@@ -42,7 +46,8 @@
     "circuito_nombre": "Streets of Detroit",
     "circuito_ubicacion": "Detroit, Michigan",
     "circuito_tipo": "Circuito urbano",
-    "numero_evento": 5
+    "numero_evento": 5,
+    "circuito_tipo_en": "Street circuit"
   },
   {
     "temporada": 2026,
@@ -51,7 +56,8 @@
     "circuito_nombre": "Watkins Glen International",
     "circuito_ubicacion": "Watkins Glen, New York",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 6
+    "numero_evento": 6,
+    "circuito_tipo_en": "Permanent circuit"
   },
   {
     "temporada": 2026,
@@ -60,7 +66,8 @@
     "circuito_nombre": "Canadian Tire Motorsport Park",
     "circuito_ubicacion": "Bowmanville, Ontario",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 7
+    "numero_evento": 7,
+    "circuito_tipo_en": "Permanent circuit"
   },
   {
     "temporada": 2026,
@@ -69,7 +76,8 @@
     "circuito_nombre": "Road America",
     "circuito_ubicacion": "Elkhart Lake, Wisconsin",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 8
+    "numero_evento": 8,
+    "circuito_tipo_en": "Permanent circuit"
   },
   {
     "temporada": 2026,
@@ -78,7 +86,8 @@
     "circuito_nombre": "VIRginia International Raceway",
     "circuito_ubicacion": "Alton, Virginia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 9
+    "numero_evento": 9,
+    "circuito_tipo_en": "Permanent circuit"
   },
   {
     "temporada": 2026,
@@ -87,7 +96,8 @@
     "circuito_nombre": "Indianapolis Motor Speedway",
     "circuito_ubicacion": "Speedway, Indiana",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 10
+    "numero_evento": 10,
+    "circuito_tipo_en": "Permanent circuit"
   },
   {
     "temporada": 2026,
@@ -96,6 +106,7 @@
     "circuito_nombre": "Michelin Raceway Road Atlanta",
     "circuito_ubicacion": "Braselton, Georgia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 11
+    "numero_evento": 11,
+    "circuito_tipo_en": "Permanent circuit"
   }
 ]
