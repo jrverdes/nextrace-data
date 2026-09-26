@@ -44,7 +44,9 @@
     "numero_evento": 4,
     "nombre_evento_en": "WEC: 24 Hours of Le Mans",
     "circuito_ubicacion_en": "Le Mans, France",
-    "circuito_tipo_en": "Semi-permanent circuit"
+    "circuito_tipo_en": "Semi-permanent circuit",
+    "especial": "Triple Corona",
+    "especial_en": "Triple Crown"
   },
   {
     "temporada": 2026,

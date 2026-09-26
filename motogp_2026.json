@@ -253,7 +253,9 @@
     "numero_evento": 11,
     "nombre_evento_en": "MGP: GP Netherlands",
     "circuito_ubicacion_en": "Assen, Netherlands",
-    "circuito_tipo_en": "Permanent circuit"
+    "circuito_tipo_en": "Permanent circuit",
+    "especial": "La Catedral",
+    "especial_en": "The Cathedral"
   },
   {
     "temporada": 2026,

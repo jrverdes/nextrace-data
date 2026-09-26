@@ -67,7 +67,9 @@
     "circuito_ubicacion": "Speedway, Indiana",
     "circuito_tipo": "Óvalo",
     "numero_evento": 7,
-    "circuito_tipo_en": "Oval"
+    "circuito_tipo_en": "Oval",
+    "especial": "Triple Corona",
+    "especial_en": "Triple Crown"
   },
   {
     "temporada": 2026,

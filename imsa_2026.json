@@ -7,7 +7,9 @@
     "circuito_ubicacion": "Daytona Beach, Florida",
     "circuito_tipo": "Circuito permanente",
     "numero_evento": 1,
-    "circuito_tipo_en": "Permanent circuit"
+    "circuito_tipo_en": "Permanent circuit",
+    "especial": "Clásico de resistencia",
+    "especial_en": "Endurance Classic"
   },
   {
     "temporada": 2026,
@@ -17,7 +19,9 @@
     "circuito_ubicacion": "Sebring, Florida",
     "circuito_tipo": "Circuito permanente",
     "numero_evento": 2,
-    "circuito_tipo_en": "Permanent circuit"
+    "circuito_tipo_en": "Permanent circuit",
+    "especial": "Clásico de resistencia",
+    "especial_en": "Endurance Classic"
   },
   {
     "temporada": 2026,

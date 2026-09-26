@@ -121,7 +121,9 @@
     "numero_evento": 8,
     "nombre_evento_en": "F1: GP Monaco",
     "circuito_ubicacion_en": "Monte Carlo, Monaco",
-    "circuito_tipo_en": "Street circuit"
+    "circuito_tipo_en": "Street circuit",
+    "especial": "Triple Corona",
+    "especial_en": "Triple Crown"
   },
   {
     "temporada": 2026,

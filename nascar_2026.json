@@ -16,7 +16,9 @@
     "circuito_nombre": "Daytona International Speedway",
     "circuito_ubicacion": "Daytona Beach, Florida",
     "circuito_tipo": "Superspeedway",
-    "numero_evento": 1
+    "numero_evento": 1,
+    "especial": "Joya de la corona",
+    "especial_en": "Crown Jewel"
   },
   {
     "temporada": 2026,
@@ -145,7 +147,9 @@
     "circuito_ubicacion": "Concord, North Carolina",
     "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 13,
-    "circuito_tipo_en": "Intermediate oval"
+    "circuito_tipo_en": "Intermediate oval",
+    "especial": "Joya de la corona",
+    "especial_en": "Crown Jewel"
   },
   {
     "temporada": 2026,
@@ -235,7 +239,9 @@
     "circuito_ubicacion": "Speedway, Indiana",
     "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 22,
-    "circuito_tipo_en": "Intermediate oval"
+    "circuito_tipo_en": "Intermediate oval",
+    "especial": "Joya de la corona",
+    "especial_en": "Crown Jewel"
   },
   {
     "temporada": 2026,
@@ -284,7 +290,9 @@
     "circuito_ubicacion": "Darlington, South Carolina",
     "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 27,
-    "circuito_tipo_en": "Intermediate oval"
+    "circuito_tipo_en": "Intermediate oval",
+    "especial": "Joya de la corona",
+    "especial_en": "Crown Jewel"
   },
   {
     "temporada": 2026,
