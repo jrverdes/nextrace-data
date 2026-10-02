@@ -312,16 +312,6 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "F1: Sprint Qatar",
-    "hora_carrera_utc": "2026-11-28T14:30:00Z",
-    "circuito_nombre": "Lusail International Circuit",
-    "circuito_ubicacion": "Lusail, Qatar",
-    "circuito_tipo": "Circuito permanente",
-    "numero_evento": 22,
-    "circuito_tipo_en": "Permanent circuit"
-  },
-  {
-    "temporada": 2026,
     "nombre_evento": "F1: GP Qatar",
     "hora_carrera_utc": "2026-11-29T16:00:00Z",
     "circuito_nombre": "Lusail International Circuit",
