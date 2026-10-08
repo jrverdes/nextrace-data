@@ -338,11 +338,11 @@
     "temporada": 2026,
     "nombre_evento": "NCS: CHASE Bank of America 400",
     "hora_carrera_utc": "2026-10-11T19:00:00Z",
-    "circuito_nombre": "Charlotte Motor Speedway Road Course",
+    "circuito_nombre": "Charlotte Motor Speedway",
     "circuito_ubicacion": "Concord, North Carolina",
-    "circuito_tipo": "Circuito rutero",
+    "circuito_tipo": "Óvalo intermedio",
     "numero_evento": 32,
-    "circuito_tipo_en": "Road course"
+    "circuito_tipo_en": "Intermediate oval"
   },
   {
     "temporada": 2026,
