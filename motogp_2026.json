@@ -71,32 +71,12 @@
   },
   {
     "temporada": 2026,
-    "nombre_evento": "MGP: Sprint Qatar",
-    "hora_carrera_utc": "2026-04-11T16:00:00Z",
-    "circuito_nombre": "Lusail International Circuit",
-    "circuito_ubicacion": "Lusail, Qatar",
-    "circuito_tipo": "Circuito permanente",
-    "numero_evento": 4,
-    "circuito_tipo_en": "Permanent circuit"
-  },
-  {
-    "temporada": 2026,
-    "nombre_evento": "MGP: GP Qatar",
-    "hora_carrera_utc": "2026-04-12T17:00:00Z",
-    "circuito_nombre": "Lusail International Circuit",
-    "circuito_ubicacion": "Lusail, Qatar",
-    "circuito_tipo": "Circuito permanente",
-    "numero_evento": 4,
-    "circuito_tipo_en": "Permanent circuit"
-  },
-  {
-    "temporada": 2026,
     "nombre_evento": "MGP: Sprint España",
     "hora_carrera_utc": "2026-04-25T13:00:00Z",
     "circuito_nombre": "Circuito de Jerez - Ángel Nieto",
     "circuito_ubicacion": "Jerez de la Frontera, España",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 5,
+    "numero_evento": 4,
     "nombre_evento_en": "MGP: Sprint Spain",
     "circuito_ubicacion_en": "Jerez de la Frontera, Spain",
     "circuito_tipo_en": "Permanent circuit"
@@ -108,7 +88,7 @@
     "circuito_nombre": "Circuito de Jerez - Ángel Nieto",
     "circuito_ubicacion": "Jerez de la Frontera, España",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 5,
+    "numero_evento": 4,
     "nombre_evento_en": "MGP: GP Spain",
     "circuito_ubicacion_en": "Jerez de la Frontera, Spain",
     "circuito_tipo_en": "Permanent circuit"
@@ -120,7 +100,7 @@
     "circuito_nombre": "Le Mans",
     "circuito_ubicacion": "Le Mans, Francia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 6,
+    "numero_evento": 5,
     "nombre_evento_en": "MGP: Sprint France",
     "circuito_ubicacion_en": "Le Mans, France",
     "circuito_tipo_en": "Permanent circuit"
@@ -132,7 +112,7 @@
     "circuito_nombre": "Le Mans",
     "circuito_ubicacion": "Le Mans, Francia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 6,
+    "numero_evento": 5,
     "nombre_evento_en": "MGP: GP France",
     "circuito_ubicacion_en": "Le Mans, France",
     "circuito_tipo_en": "Permanent circuit"
@@ -144,7 +124,7 @@
     "circuito_nombre": "Circuit de Barcelona-Catalunya",
     "circuito_ubicacion": "Montmeló, España",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 7,
+    "numero_evento": 6,
     "circuito_ubicacion_en": "Montmeló, Spain",
     "circuito_tipo_en": "Permanent circuit"
   },
@@ -155,7 +135,7 @@
     "circuito_nombre": "Circuit de Barcelona-Catalunya",
     "circuito_ubicacion": "Montmeló, España",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 7,
+    "numero_evento": 6,
     "circuito_ubicacion_en": "Montmeló, Spain",
     "circuito_tipo_en": "Permanent circuit"
   },
@@ -166,7 +146,7 @@
     "circuito_nombre": "Autodromo Internazionale del Mugello",
     "circuito_ubicacion": "Mugello, Italia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 8,
+    "numero_evento": 7,
     "nombre_evento_en": "MGP: Sprint Italy",
     "circuito_ubicacion_en": "Mugello, Italy",
     "circuito_tipo_en": "Permanent circuit"
@@ -178,7 +158,7 @@
     "circuito_nombre": "Autodromo Internazionale del Mugello",
     "circuito_ubicacion": "Mugello, Italia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 8,
+    "numero_evento": 7,
     "nombre_evento_en": "MGP: GP Italy",
     "circuito_ubicacion_en": "Mugello, Italy",
     "circuito_tipo_en": "Permanent circuit"
@@ -190,7 +170,7 @@
     "circuito_nombre": "Balaton Park Circuit",
     "circuito_ubicacion": "Balatonfőkajár, Hungría",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 9,
+    "numero_evento": 8,
     "nombre_evento_en": "MGP: Sprint Hungary",
     "circuito_ubicacion_en": "Balatonfőkajár, Hungary",
     "circuito_tipo_en": "Permanent circuit"
@@ -202,7 +182,7 @@
     "circuito_nombre": "Balaton Park Circuit",
     "circuito_ubicacion": "Balatonfőkajár, Hungría",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 9,
+    "numero_evento": 8,
     "nombre_evento_en": "MGP: GP Hungary",
     "circuito_ubicacion_en": "Balatonfőkajár, Hungary",
     "circuito_tipo_en": "Permanent circuit"
@@ -214,7 +194,7 @@
     "circuito_nombre": "Automotodrom Brno",
     "circuito_ubicacion": "Brno, Chequia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 10,
+    "numero_evento": 9,
     "nombre_evento_en": "MGP: Sprint Czechia",
     "circuito_ubicacion_en": "Brno, Czechia",
     "circuito_tipo_en": "Permanent circuit"
@@ -226,7 +206,7 @@
     "circuito_nombre": "Automotodrom Brno",
     "circuito_ubicacion": "Brno, Chequia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 10,
+    "numero_evento": 9,
     "nombre_evento_en": "MGP: GP Czechia",
     "circuito_ubicacion_en": "Brno, Czechia",
     "circuito_tipo_en": "Permanent circuit"
@@ -238,7 +218,7 @@
     "circuito_nombre": "TT Circuit Assen",
     "circuito_ubicacion": "Assen, Países Bajos",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 11,
+    "numero_evento": 10,
     "nombre_evento_en": "MGP: Sprint Netherlands",
     "circuito_ubicacion_en": "Assen, Netherlands",
     "circuito_tipo_en": "Permanent circuit"
@@ -250,7 +230,7 @@
     "circuito_nombre": "TT Circuit Assen",
     "circuito_ubicacion": "Assen, Países Bajos",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 11,
+    "numero_evento": 10,
     "nombre_evento_en": "MGP: GP Netherlands",
     "circuito_ubicacion_en": "Assen, Netherlands",
     "circuito_tipo_en": "Permanent circuit",
@@ -264,7 +244,7 @@
     "circuito_nombre": "Sachsenring",
     "circuito_ubicacion": "Hohenstein-Ernstthal, Alemania",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 12,
+    "numero_evento": 11,
     "nombre_evento_en": "MGP: Sprint Germany",
     "circuito_ubicacion_en": "Hohenstein-Ernstthal, Germany",
     "circuito_tipo_en": "Permanent circuit"
@@ -276,7 +256,7 @@
     "circuito_nombre": "Sachsenring",
     "circuito_ubicacion": "Hohenstein-Ernstthal, Alemania",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 12,
+    "numero_evento": 11,
     "nombre_evento_en": "MGP: GP Germany",
     "circuito_ubicacion_en": "Hohenstein-Ernstthal, Germany",
     "circuito_tipo_en": "Permanent circuit"
@@ -288,7 +268,7 @@
     "circuito_nombre": "Silverstone Circuit",
     "circuito_ubicacion": "Silverstone, Reino Unido",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 13,
+    "numero_evento": 12,
     "nombre_evento_en": "MGP: Sprint Great Britain",
     "circuito_ubicacion_en": "Silverstone, United Kingdom",
     "circuito_tipo_en": "Permanent circuit"
@@ -300,7 +280,7 @@
     "circuito_nombre": "Silverstone Circuit",
     "circuito_ubicacion": "Silverstone, Reino Unido",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 13,
+    "numero_evento": 12,
     "nombre_evento_en": "MGP: GP Great Britain",
     "circuito_ubicacion_en": "Silverstone, United Kingdom",
     "circuito_tipo_en": "Permanent circuit"
@@ -312,7 +292,7 @@
     "circuito_nombre": "MotorLand Aragón",
     "circuito_ubicacion": "Alcañiz, España",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 14,
+    "numero_evento": 13,
     "circuito_ubicacion_en": "Alcañiz, Spain",
     "circuito_tipo_en": "Permanent circuit"
   },
@@ -323,7 +303,7 @@
     "circuito_nombre": "MotorLand Aragón",
     "circuito_ubicacion": "Alcañiz, España",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 14,
+    "numero_evento": 13,
     "circuito_ubicacion_en": "Alcañiz, Spain",
     "circuito_tipo_en": "Permanent circuit"
   },
@@ -334,7 +314,7 @@
     "circuito_nombre": "Misano World Circuit Marco Simoncelli",
     "circuito_ubicacion": "Misano Adriatico, Italia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 15,
+    "numero_evento": 14,
     "circuito_ubicacion_en": "Misano Adriatico, Italy",
     "circuito_tipo_en": "Permanent circuit"
   },
@@ -345,7 +325,7 @@
     "circuito_nombre": "Misano World Circuit Marco Simoncelli",
     "circuito_ubicacion": "Misano Adriatico, Italia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 15,
+    "numero_evento": 14,
     "circuito_ubicacion_en": "Misano Adriatico, Italy",
     "circuito_tipo_en": "Permanent circuit"
   },
@@ -356,7 +336,7 @@
     "circuito_nombre": "Red Bull Ring",
     "circuito_ubicacion": "Spielberg, Austria",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 16,
+    "numero_evento": 15,
     "circuito_tipo_en": "Permanent circuit"
   },
   {
@@ -366,7 +346,7 @@
     "circuito_nombre": "Red Bull Ring",
     "circuito_ubicacion": "Spielberg, Austria",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 16,
+    "numero_evento": 15,
     "circuito_tipo_en": "Permanent circuit"
   },
   {
@@ -376,7 +356,7 @@
     "circuito_nombre": "Mobility Resort Motegi",
     "circuito_ubicacion": "Motegi, Japón",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 17,
+    "numero_evento": 16,
     "nombre_evento_en": "MGP: Sprint Japan",
     "circuito_ubicacion_en": "Motegi, Japan",
     "circuito_tipo_en": "Permanent circuit"
@@ -388,7 +368,7 @@
     "circuito_nombre": "Mobility Resort Motegi",
     "circuito_ubicacion": "Motegi, Japón",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 17,
+    "numero_evento": 16,
     "nombre_evento_en": "MGP: GP Japan",
     "circuito_ubicacion_en": "Motegi, Japan",
     "circuito_tipo_en": "Permanent circuit"
@@ -400,7 +380,7 @@
     "circuito_nombre": "Pertamina Mandalika International Circuit",
     "circuito_ubicacion": "Mandalika, Indonesia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 18,
+    "numero_evento": 17,
     "circuito_tipo_en": "Permanent circuit"
   },
   {
@@ -410,7 +390,7 @@
     "circuito_nombre": "Pertamina Mandalika International Circuit",
     "circuito_ubicacion": "Mandalika, Indonesia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 18,
+    "numero_evento": 17,
     "circuito_tipo_en": "Permanent circuit"
   },
   {
@@ -420,7 +400,7 @@
     "circuito_nombre": "Phillip Island Grand Prix Circuit",
     "circuito_ubicacion": "Phillip Island, Australia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 19,
+    "numero_evento": 18,
     "circuito_tipo_en": "Permanent circuit"
   },
   {
@@ -430,7 +410,7 @@
     "circuito_nombre": "Phillip Island Grand Prix Circuit",
     "circuito_ubicacion": "Phillip Island, Australia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 19,
+    "numero_evento": 18,
     "circuito_tipo_en": "Permanent circuit"
   },
   {
@@ -440,7 +420,7 @@
     "circuito_nombre": "Sepang International Circuit",
     "circuito_ubicacion": "Sepang, Malasia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 20,
+    "numero_evento": 19,
     "nombre_evento_en": "MGP: Sprint Malaysia",
     "circuito_ubicacion_en": "Sepang, Malaysia",
     "circuito_tipo_en": "Permanent circuit"
@@ -448,19 +428,39 @@
   {
     "temporada": 2026,
     "nombre_evento": "MGP: GP Malasia",
-    "hora_carrera_utc": "2026-11-01T06:00:00Z",
+    "hora_carrera_utc": "2026-11-01T07:00:00Z",
     "circuito_nombre": "Sepang International Circuit",
     "circuito_ubicacion": "Sepang, Malasia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 20,
+    "numero_evento": 19,
     "nombre_evento_en": "MGP: GP Malaysia",
     "circuito_ubicacion_en": "Sepang, Malaysia",
     "circuito_tipo_en": "Permanent circuit"
   },
   {
     "temporada": 2026,
+    "nombre_evento": "MGP: Sprint Qatar",
+    "hora_carrera_utc": "2026-11-07T17:00:00Z",
+    "circuito_nombre": "Lusail International Circuit",
+    "circuito_ubicacion": "Lusail, Qatar",
+    "circuito_tipo": "Circuito permanente",
+    "numero_evento": 20,
+    "circuito_tipo_en": "Permanent circuit"
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "MGP: GP Qatar",
+    "hora_carrera_utc": "2026-11-08T17:00:00Z",
+    "circuito_nombre": "Lusail International Circuit",
+    "circuito_ubicacion": "Lusail, Qatar",
+    "circuito_tipo": "Circuito permanente",
+    "numero_evento": 20,
+    "circuito_tipo_en": "Permanent circuit"
+  },
+  {
+    "temporada": 2026,
     "nombre_evento": "MGP: Sprint Portugal",
-    "hora_carrera_utc": "2026-11-14T15:00:00Z",
+    "hora_carrera_utc": "2026-11-21T15:00:00Z",
     "circuito_nombre": "Autódromo Internacional do Algarve",
     "circuito_ubicacion": "Portimão, Portugal",
     "circuito_tipo": "Circuito permanente",
@@ -470,7 +470,7 @@
   {
     "temporada": 2026,
     "nombre_evento": "MGP: GP Portugal",
-    "hora_carrera_utc": "2026-11-15T14:00:00Z",
+    "hora_carrera_utc": "2026-11-22T13:00:00Z",
     "circuito_nombre": "Autódromo Internacional do Algarve",
     "circuito_ubicacion": "Portimão, Portugal",
     "circuito_tipo": "Circuito permanente",
@@ -480,7 +480,7 @@
   {
     "temporada": 2026,
     "nombre_evento": "MGP: Sprint Valencia",
-    "hora_carrera_utc": "2026-11-21T14:00:00Z",
+    "hora_carrera_utc": "2026-11-28T14:00:00Z",
     "circuito_nombre": "Circuit Ricardo Tormo",
     "circuito_ubicacion": "Cheste, Valencia, España",
     "circuito_tipo": "Circuito permanente",
@@ -491,7 +491,7 @@
   {
     "temporada": 2026,
     "nombre_evento": "MGP: GP Valencia",
-    "hora_carrera_utc": "2026-11-22T13:00:00Z",
+    "hora_carrera_utc": "2026-11-29T13:00:00Z",
     "circuito_nombre": "Circuit Ricardo Tormo",
     "circuito_ubicacion": "Cheste, Valencia, España",
     "circuito_tipo": "Circuito permanente",
