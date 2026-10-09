@@ -1,23 +1,12 @@
 [
   {
     "temporada": 2026,
-    "nombre_evento": "WEC: 1812 km de Qatar",
-    "hora_carrera_utc": "2026-03-28T08:00:00Z",
-    "circuito_nombre": "Lusail International Circuit",
-    "circuito_ubicacion": "Lusail, Qatar",
-    "circuito_tipo": "Circuito permanente",
-    "numero_evento": 1,
-    "nombre_evento_en": "WEC: 1812 km of Qatar",
-    "circuito_tipo_en": "Permanent circuit"
-  },
-  {
-    "temporada": 2026,
     "nombre_evento": "WEC: 6 Horas de Imola",
     "hora_carrera_utc": "2026-04-19T11:00:00Z",
     "circuito_nombre": "Autodromo Enzo e Dino Ferrari",
     "circuito_ubicacion": "Imola, Italia",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 2,
+    "numero_evento": 1,
     "nombre_evento_en": "WEC: 6 Hours of Imola",
     "circuito_ubicacion_en": "Imola, Italy",
     "circuito_tipo_en": "Permanent circuit"
@@ -29,7 +18,7 @@
     "circuito_nombre": "Circuit de Spa-Francorchamps",
     "circuito_ubicacion": "Stavelot, Bélgica",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 3,
+    "numero_evento": 2,
     "nombre_evento_en": "WEC: 6 Hours of Spa-Francorchamps",
     "circuito_ubicacion_en": "Stavelot, Belgium",
     "circuito_tipo_en": "Permanent circuit"
@@ -41,7 +30,7 @@
     "circuito_nombre": "Circuit de la Sarthe",
     "circuito_ubicacion": "Le Mans, Francia",
     "circuito_tipo": "Circuito semipermanente",
-    "numero_evento": 4,
+    "numero_evento": 3,
     "nombre_evento_en": "WEC: 24 Hours of Le Mans",
     "circuito_ubicacion_en": "Le Mans, France",
     "circuito_tipo_en": "Semi-permanent circuit",
@@ -55,7 +44,7 @@
     "circuito_nombre": "Interlagos",
     "circuito_ubicacion": "São Paulo, Brasil",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 5,
+    "numero_evento": 4,
     "nombre_evento_en": "WEC: 6 Hours of São Paulo",
     "circuito_ubicacion_en": "São Paulo, Brazil",
     "circuito_tipo_en": "Permanent circuit"
@@ -67,7 +56,7 @@
     "circuito_nombre": "Circuit of The Americas",
     "circuito_ubicacion": "Austin, Texas",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 6,
+    "numero_evento": 5,
     "circuito_tipo_en": "Permanent circuit"
   },
   {
@@ -77,21 +66,33 @@
     "circuito_nombre": "Fuji Speedway",
     "circuito_ubicacion": "Oyama, Japón",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 7,
+    "numero_evento": 6,
     "nombre_evento_en": "WEC: 6 Hours of Fuji",
     "circuito_ubicacion_en": "Oyama, Japan",
     "circuito_tipo_en": "Permanent circuit"
   },
   {
     "temporada": 2026,
-    "nombre_evento": "WEC: 8 Horas de Bahréin",
-    "hora_carrera_utc": "2026-11-07T11:00:00Z",
-    "circuito_nombre": "Bahrain International Circuit",
-    "circuito_ubicacion": "Sakhir, Bahréin",
+    "nombre_evento": "WEC: 6 Horas de Barcelona",
+    "hora_carrera_utc": "2026-10-18T10:00:00Z",
+    "circuito_nombre": "Circuit de Barcelona-Catalunya",
+    "circuito_ubicacion": "Montmeló, España",
+    "circuito_tipo": "Circuito permanente",
+    "numero_evento": 7,
+    "nombre_evento_en": "WEC: 6 Hours of Barcelona",
+    "circuito_ubicacion_en": "Montmeló, Spain",
+    "circuito_tipo_en": "Permanent circuit"
+  },
+  {
+    "temporada": 2026,
+    "nombre_evento": "WEC: 6 Horas de Monza",
+    "hora_carrera_utc": "2026-11-08T10:00:00Z",
+    "circuito_nombre": "Autodromo Nazionale Monza",
+    "circuito_ubicacion": "Monza, Italia",
     "circuito_tipo": "Circuito permanente",
     "numero_evento": 8,
-    "nombre_evento_en": "WEC: 8 Hours of Bahrain",
-    "circuito_ubicacion_en": "Sakhir, Bahrain",
+    "nombre_evento_en": "WEC: 6 Hours of Monza",
+    "circuito_ubicacion_en": "Monza, Italy",
     "circuito_tipo_en": "Permanent circuit"
   }
 ]
