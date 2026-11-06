@@ -440,7 +440,7 @@
   {
     "temporada": 2026,
     "nombre_evento": "MGP: Sprint Qatar",
-    "hora_carrera_utc": "2026-11-07T17:00:00Z",
+    "hora_carrera_utc": "2026-11-07T16:00:00Z",
     "circuito_nombre": "Lusail International Circuit",
     "circuito_ubicacion": "Lusail, Qatar",
     "circuito_tipo": "Circuito permanente",
@@ -450,7 +450,7 @@
   {
     "temporada": 2026,
     "nombre_evento": "MGP: GP Qatar",
-    "hora_carrera_utc": "2026-11-08T17:00:00Z",
+    "hora_carrera_utc": "2026-11-08T16:00:00Z",
     "circuito_nombre": "Lusail International Circuit",
     "circuito_ubicacion": "Lusail, Qatar",
     "circuito_tipo": "Circuito permanente",
