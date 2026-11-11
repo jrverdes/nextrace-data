@@ -1,0 +1,109 @@
+[
+  {
+    "temporada": 2027,
+    "nombre_evento": "WEC: 1812 km de Qatar",
+    "hora_carrera_utc": "2027-03-27T08:00:00Z",
+    "circuito_nombre": "Lusail International Circuit",
+    "circuito_ubicacion": "Lusail, Qatar",
+    "circuito_tipo": "Circuito permanente",
+    "numero_evento": 1,
+    "nombre_evento_en": "WEC: 1812 km of Qatar",
+    "circuito_tipo_en": "Permanent circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "WEC: 6 Horas de Imola",
+    "hora_carrera_utc": "2027-04-11T11:00:00Z",
+    "circuito_nombre": "Autodromo Enzo e Dino Ferrari",
+    "circuito_ubicacion": "Imola, Italia",
+    "circuito_tipo": "Circuito permanente",
+    "numero_evento": 2,
+    "nombre_evento_en": "WEC: 6 Hours of Imola",
+    "circuito_ubicacion_en": "Imola, Italy",
+    "circuito_tipo_en": "Permanent circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "WEC: 6 Horas de Silverstone",
+    "hora_carrera_utc": "2027-04-25T12:00:00Z",
+    "circuito_nombre": "Silverstone Circuit",
+    "circuito_ubicacion": "Silverstone, Reino Unido",
+    "circuito_tipo": "Circuito permanente",
+    "numero_evento": 3,
+    "circuito_ubicacion_en": "Silverstone, United Kingdom",
+    "circuito_tipo_en": "Permanent circuit",
+    "nombre_evento_en": "WEC: 6 Hours of Silverstone"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "WEC: 6 Horas de Spa-Francorchamps",
+    "hora_carrera_utc": "2027-05-15T11:00:00Z",
+    "circuito_nombre": "Circuit de Spa-Francorchamps",
+    "circuito_ubicacion": "Stavelot, Bélgica",
+    "circuito_tipo": "Circuito permanente",
+    "numero_evento": 4,
+    "nombre_evento_en": "WEC: 6 Hours of Spa-Francorchamps",
+    "circuito_ubicacion_en": "Stavelot, Belgium",
+    "circuito_tipo_en": "Permanent circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "WEC: 24 Horas de Le Mans",
+    "hora_carrera_utc": "2027-06-12T14:00:00Z",
+    "circuito_nombre": "Circuit de la Sarthe",
+    "circuito_ubicacion": "Le Mans, Francia",
+    "circuito_tipo": "Circuito semipermanente",
+    "numero_evento": 5,
+    "nombre_evento_en": "WEC: 24 Hours of Le Mans",
+    "circuito_ubicacion_en": "Le Mans, France",
+    "circuito_tipo_en": "Semi-permanent circuit",
+    "especial": "Triple Corona",
+    "especial_en": "Triple Crown"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "WEC: 6 Horas de São Paulo",
+    "hora_carrera_utc": "2027-07-11T14:30:00Z",
+    "circuito_nombre": "Interlagos",
+    "circuito_ubicacion": "São Paulo, Brasil",
+    "circuito_tipo": "Circuito permanente",
+    "numero_evento": 6,
+    "nombre_evento_en": "WEC: 6 Hours of São Paulo",
+    "circuito_ubicacion_en": "São Paulo, Brazil",
+    "circuito_tipo_en": "Permanent circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "WEC: Lone Star Le Mans",
+    "hora_carrera_utc": "2027-09-12T18:00:00Z",
+    "circuito_nombre": "Circuit of The Americas",
+    "circuito_ubicacion": "Austin, Texas",
+    "circuito_tipo": "Circuito permanente",
+    "numero_evento": 7,
+    "circuito_tipo_en": "Permanent circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "WEC: 6 Horas de Fuji",
+    "hora_carrera_utc": "2027-09-26T02:00:00Z",
+    "circuito_nombre": "Fuji Speedway",
+    "circuito_ubicacion": "Oyama, Japón",
+    "circuito_tipo": "Circuito permanente",
+    "numero_evento": 8,
+    "nombre_evento_en": "WEC: 6 Hours of Fuji",
+    "circuito_ubicacion_en": "Oyama, Japan",
+    "circuito_tipo_en": "Permanent circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "WEC: 8 Horas de Bahréin",
+    "hora_carrera_utc": "2027-11-06T11:00:00Z",
+    "circuito_nombre": "Bahrain International Circuit",
+    "circuito_ubicacion": "Sakhir, Bahréin",
+    "circuito_tipo": "Circuito permanente",
+    "numero_evento": 9,
+    "nombre_evento_en": "WEC: 8 Hours of Bahrain",
+    "circuito_ubicacion_en": "Sakhir, Bahrain",
+    "circuito_tipo_en": "Permanent circuit"
+  }
+]

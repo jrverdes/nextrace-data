@@ -1,0 +1,175 @@
+[
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Grand Prix of St. Petersburg",
+    "hora_carrera_utc": "2027-03-07T17:30:00Z",
+    "circuito_nombre": "Streets of St. Petersburg",
+    "circuito_ubicacion": "St. Petersburg, Florida",
+    "circuito_tipo": "Circuito urbano",
+    "numero_evento": 1,
+    "circuito_tipo_en": "Street circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Phoenix Raceway",
+    "hora_carrera_utc": "2027-03-13T20:30:00Z",
+    "circuito_nombre": "Phoenix Raceway",
+    "circuito_ubicacion": "Avondale, Arizona",
+    "circuito_tipo": "Óvalo",
+    "numero_evento": 2,
+    "circuito_tipo_en": "Oval"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Grand Prix of Arlington",
+    "hora_carrera_utc": "2027-03-21T19:30:00Z",
+    "circuito_nombre": "Streets of Arlington",
+    "circuito_ubicacion": "Arlington, Virginia",
+    "circuito_tipo": "Circuito urbano",
+    "numero_evento": 3,
+    "circuito_tipo_en": "Street circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Grand Prix of Alabama",
+    "hora_carrera_utc": "2027-04-04T17:30:00Z",
+    "circuito_nombre": "Barber Motorsports Park",
+    "circuito_ubicacion": "Birmingham, Alabama",
+    "circuito_tipo": "Circuito rutero",
+    "numero_evento": 4,
+    "circuito_tipo_en": "Road course"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Grand Prix of Long Beach",
+    "hora_carrera_utc": "2027-04-18T20:00:00Z",
+    "circuito_nombre": "Streets of Long Beach",
+    "circuito_ubicacion": "Long Beach, California",
+    "circuito_tipo": "Circuito urbano",
+    "numero_evento": 5,
+    "circuito_tipo_en": "Street circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Sonsio Grand Prix",
+    "hora_carrera_utc": "2027-05-15T19:30:00Z",
+    "circuito_nombre": "Indianapolis Motor Speedway (Road)",
+    "circuito_ubicacion": "Speedway, Indiana",
+    "circuito_tipo": "Circuito rutero",
+    "numero_evento": 6,
+    "circuito_tipo_en": "Road course"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: 111th Indianapolis 500",
+    "hora_carrera_utc": "2027-05-30T16:45:00Z",
+    "circuito_nombre": "Indianapolis Motor Speedway",
+    "circuito_ubicacion": "Speedway, Indiana",
+    "circuito_tipo": "Óvalo",
+    "numero_evento": 7,
+    "circuito_tipo_en": "Oval",
+    "especial": "Triple Corona",
+    "especial_en": "Triple Crown"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Detroit Grand Prix",
+    "hora_carrera_utc": "2027-06-06T16:30:00Z",
+    "circuito_nombre": "Streets of Detroit",
+    "circuito_ubicacion": "Detroit, Michigan",
+    "circuito_tipo": "Circuito urbano",
+    "numero_evento": 8,
+    "circuito_tipo_en": "Street circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Bommarito 500",
+    "hora_carrera_utc": "2027-06-13T19:30:00Z",
+    "circuito_nombre": "World Wide Technology Raceway",
+    "circuito_ubicacion": "Madison, Missouri",
+    "circuito_tipo": "Óvalo",
+    "numero_evento": 9,
+    "circuito_tipo_en": "Oval"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Grand Prix at Road America",
+    "hora_carrera_utc": "2027-06-27T17:30:00Z",
+    "circuito_nombre": "Road America",
+    "circuito_ubicacion": "Elkhart Lake, Wisconsin",
+    "circuito_tipo": "Circuito rutero",
+    "numero_evento": 10,
+    "circuito_tipo_en": "Road course"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Honda Indy 200",
+    "hora_carrera_utc": "2027-07-04T17:45:00Z",
+    "circuito_nombre": "Mid-Ohio Sports Car Course",
+    "circuito_ubicacion": "Lexington, Ohio",
+    "circuito_tipo": "Circuito rutero",
+    "numero_evento": 11,
+    "circuito_tipo_en": "Road course"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Grand Prix of Barcelona",
+    "hora_carrera_utc": "2027-07-18T13:00:00Z",
+    "circuito_nombre": "Circuit de Barcelona-Catalunya",
+    "circuito_ubicacion": "Montmeló, España",
+    "circuito_tipo": "Circuito permanente",
+    "numero_evento": 12,
+    "circuito_tipo_en": "Permanent circuit",
+    "circuito_ubicacion_en": "Montmeló, Spain"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Grand Prix of Portland",
+    "hora_carrera_utc": "2027-08-01T19:30:00Z",
+    "circuito_nombre": "Portland International Raceway",
+    "circuito_ubicacion": "Portland, Oregon",
+    "circuito_tipo": "Circuito rutero",
+    "numero_evento": 13,
+    "circuito_tipo_en": "Road course"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Grand Prix of Markham",
+    "hora_carrera_utc": "2027-08-15T17:30:00Z",
+    "circuito_nombre": "Streets of Markham",
+    "circuito_ubicacion": "Markham, Ontario",
+    "circuito_tipo": "Circuito urbano",
+    "numero_evento": 14,
+    "circuito_tipo_en": "Street circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Milwaukee Mile 1",
+    "hora_carrera_utc": "2027-08-28T22:00:00Z",
+    "circuito_nombre": "Milwaukee Mile",
+    "circuito_ubicacion": "West Allis, Wisconsin",
+    "circuito_tipo": "Óvalo",
+    "numero_evento": 15,
+    "circuito_tipo_en": "Oval"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Milwaukee Mile 2",
+    "hora_carrera_utc": "2027-08-29T18:30:00Z",
+    "circuito_nombre": "Milwaukee Mile",
+    "circuito_ubicacion": "West Allis, Wisconsin",
+    "circuito_tipo": "Óvalo",
+    "numero_evento": 16,
+    "circuito_tipo_en": "Oval"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "INDY: Grand Prix of Monterey",
+    "hora_carrera_utc": "2027-09-05T22:00:00Z",
+    "circuito_nombre": "WeatherTech Raceway Laguna Seca",
+    "circuito_ubicacion": "Monterey, California",
+    "circuito_tipo": "Circuito rutero",
+    "numero_evento": 17,
+    "circuito_tipo_en": "Road course"
+  }
+]
