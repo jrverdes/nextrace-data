@@ -1,34 +1,12 @@
 [
   {
     "temporada": 2027,
-    "nombre_evento": "FE: E-Prix Jeddah 1",
-    "hora_carrera_utc": "2026-12-18T17:00:00Z",
-    "circuito_nombre": "Jeddah Corniche Circuit",
-    "circuito_ubicacion": "Jeddah, Arabia Saudí",
-    "circuito_tipo": "Circuito urbano",
-    "numero_evento": 1,
-    "circuito_ubicacion_en": "Jeddah, Saudi Arabia",
-    "circuito_tipo_en": "Street circuit"
-  },
-  {
-    "temporada": 2027,
-    "nombre_evento": "FE: E-Prix Jeddah 2",
-    "hora_carrera_utc": "2026-12-19T17:00:00Z",
-    "circuito_nombre": "Jeddah Corniche Circuit",
-    "circuito_ubicacion": "Jeddah, Arabia Saudí",
-    "circuito_tipo": "Circuito urbano",
-    "numero_evento": 2,
-    "circuito_ubicacion_en": "Jeddah, Saudi Arabia",
-    "circuito_tipo_en": "Street circuit"
-  },
-  {
-    "temporada": 2027,
     "nombre_evento": "FE: E-Prix Ciudad de México",
-    "hora_carrera_utc": "2027-01-16T20:00:00Z",
+    "hora_carrera_utc": "2027-01-16T21:05:00Z",
     "circuito_nombre": "Autódromo Hermanos Rodríguez",
     "circuito_ubicacion": "Ciudad de México, México",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 3,
+    "numero_evento": 1,
     "nombre_evento_en": "FE: E-Prix Mexico City",
     "circuito_ubicacion_en": "Mexico City, Mexico",
     "circuito_tipo_en": "Permanent circuit"
@@ -40,7 +18,7 @@
     "circuito_nombre": "Circuit of the Americas",
     "circuito_ubicacion": "Austin, Texas",
     "circuito_tipo": "Circuito permanente",
-    "numero_evento": 4,
+    "numero_evento": 2,
     "circuito_tipo_en": "Permanent circuit",
     "circuito_ubicacion_en": "Austin, Texas"
   },
@@ -51,7 +29,7 @@
     "circuito_nombre": "Miami International Autodrome",
     "circuito_ubicacion": "Miami Gardens, Florida",
     "circuito_tipo": "Circuito urbano",
-    "numero_evento": 5,
+    "numero_evento": 3,
     "circuito_tipo_en": "Street circuit",
     "circuito_ubicacion_en": "Miami Gardens, Florida"
   },
@@ -62,18 +40,40 @@
     "circuito_nombre": "Sambadrome Anhembi",
     "circuito_ubicacion": "São Paulo, Brasil",
     "circuito_tipo": "Circuito urbano",
-    "numero_evento": 6,
+    "numero_evento": 4,
     "circuito_ubicacion_en": "São Paulo, Brazil",
     "circuito_tipo_en": "Street circuit"
   },
   {
     "temporada": 2027,
     "nombre_evento": "FE: E-Prix Sanya",
-    "hora_carrera_utc": "2027-04-17T07:00:00Z",
+    "hora_carrera_utc": "2027-04-03T07:00:00Z",
     "circuito_nombre": "Haitang Bay Circuit",
     "circuito_ubicacion": "Sanya, China",
     "circuito_tipo": "Circuito urbano",
+    "numero_evento": 5,
+    "circuito_tipo_en": "Street circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "FE: E-Prix Jeddah 1",
+    "hora_carrera_utc": "2027-04-16T17:00:00Z",
+    "circuito_nombre": "Jeddah Corniche Circuit",
+    "circuito_ubicacion": "Jeddah, Arabia Saudí",
+    "circuito_tipo": "Circuito urbano",
+    "numero_evento": 6,
+    "circuito_ubicacion_en": "Jeddah, Saudi Arabia",
+    "circuito_tipo_en": "Street circuit"
+  },
+  {
+    "temporada": 2027,
+    "nombre_evento": "FE: E-Prix Jeddah 2",
+    "hora_carrera_utc": "2027-04-17T17:00:00Z",
+    "circuito_nombre": "Jeddah Corniche Circuit",
+    "circuito_ubicacion": "Jeddah, Arabia Saudí",
+    "circuito_tipo": "Circuito urbano",
     "numero_evento": 7,
+    "circuito_ubicacion_en": "Jeddah, Saudi Arabia",
     "circuito_tipo_en": "Street circuit"
   },
   {
